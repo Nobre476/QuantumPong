@@ -67,3 +67,14 @@ from utils.racket_physics import calculate_rebound
 @app.get("/rebound-angle/")
 async def get_rebound_angle(incoming_angle: float, rubber_hardness: float = 45):
     return {"rebound_angle": calculate_rebound(incoming_angle, rubber_hardness)}
+
+# api/main.py (adicionar junto com os outros imports)
+from utils.quantum_ball import quantum_decision
+
+@app.get("/quantum-move/")
+async def get_quantum_move():
+    move = quantum_decision()
+    return {
+        "quantum_move": move,
+        "description": "0 → Esquerda, 1 → Direita (puro quantum randomness!)"
+    }
