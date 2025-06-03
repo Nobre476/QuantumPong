@@ -1,16 +1,18 @@
-# N:\Quantum_Pong\utils\qi_calculator.py
 import math
 
 def calculate_qi(forehand_spin, backhand_stability, fatigue, pressure):
-    """
-    Calcula o índice Qi - versão simplificada para iniciantes
-    Valores de exemplo:
-    - forehand_spin: 1 a 10 (habilidade do jogador)
-    - backhand_stability: 1 a 10 
-    - fatigue: 1 a 10 (cansaço)
-    - pressure: 1 a 10 (pressão psicológica)
-    """
+    """Versão nova que retorna Qi E estado"""
     numerator = 0.7 * forehand_spin + 0.3 * backhand_stability
-    denominator = math.sqrt(fatigue**2 + 0.5 * pressure**2)
-    qi = numerator / denominator if denominator != 0 else 0
-    return round(qi, 2)
+    denominator = math.sqrt(fatigue**2 + 0.5 * pressure**2 + 1e-6)
+    qi_value = numerator / denominator
+
+    if qi_value > 1.15:
+        state = "Flow State"
+    elif qi_value > 0.85:
+        state = "Optimal Performance"
+    elif qi_value > 0.6:
+        state = "Normal"
+    else:
+        state = "Below Par"
+    
+    return qi_value, state  # Agora retorna DOIS valores!
