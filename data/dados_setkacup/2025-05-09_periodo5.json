@@ -1,0 +1,2309 @@
+[
+  {
+    "id": 46543,
+    "code": "sc-location-11-250508140100-6248",
+    "dayPeriodToken": 5,
+    "locationId": 11,
+    "matches": [
+      {
+        "id": 631269,
+        "tournamentId": 46543,
+        "statusId": 3,
+        "position": 1,
+        "player1": {
+          "id": 2203,
+          "firstName": "Lukas",
+          "lastName": "Heinzl",
+          "gender": true,
+          "photo": "Mi8yMi8yMjAzL2ltYWdlLmpwZw=="
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 2404,
+          "firstName": "Radovan",
+          "lastName": "Pisa",
+          "gender": true,
+          "photo": "Mi8yNC8yNDA0L2ltYWdlLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "1",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-05-09T13:15:00.000Z",
+        "activePlayerId": 2203,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-05-09 Men Day2 Prague",
+        "locationId": 11,
+        "dayPeriodToken": 5,
+        "correction": 0,
+        "winner": {
+          "id": 2404,
+          "firstName": "Radovan",
+          "lastName": "Pisa",
+          "gender": true,
+          "photo": "Mi8yNC8yNDA0L2ltYWdlLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 631269,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 9
+          },
+          {
+            "match_id": 631269,
+            "number": 2,
+            "p1Score": 5,
+            "p2Score": 11
+          },
+          {
+            "match_id": 631269,
+            "number": 3,
+            "p1Score": 9,
+            "p2Score": 11
+          },
+          {
+            "match_id": 631269,
+            "number": 4,
+            "p1Score": 10,
+            "p2Score": 12
+          }
+        ]
+      },
+      {
+        "id": 631270,
+        "tournamentId": 46543,
+        "statusId": 3,
+        "position": 2,
+        "player1": {
+          "id": 2576,
+          "firstName": "Lukas",
+          "lastName": "Svoboda",
+          "gender": true,
+          "photo": "Mi8yNS8yNTc2L2ltYWdlLmpwZw=="
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 1390,
+          "firstName": "Lukas",
+          "lastName": "Rulc",
+          "gender": true,
+          "photo": "MS8xMy8xMzkwL3Bob3RvLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "3",
+        "player2Score": "1",
+        "technicalResult": 0,
+        "startDate": "2025-05-09T13:45:00.000Z",
+        "activePlayerId": 1390,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-05-09 Men Day2 Prague",
+        "locationId": 11,
+        "dayPeriodToken": 5,
+        "correction": 0,
+        "winner": {
+          "id": 2576,
+          "firstName": "Lukas",
+          "lastName": "Svoboda",
+          "gender": true,
+          "photo": "Mi8yNS8yNTc2L2ltYWdlLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 631270,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 6
+          },
+          {
+            "match_id": 631270,
+            "number": 2,
+            "p1Score": 5,
+            "p2Score": 11
+          },
+          {
+            "match_id": 631270,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 6
+          },
+          {
+            "match_id": 631270,
+            "number": 4,
+            "p1Score": 12,
+            "p2Score": 10
+          }
+        ]
+      },
+      {
+        "id": 631271,
+        "tournamentId": 46543,
+        "statusId": 3,
+        "position": 3,
+        "player1": {
+          "id": 2203,
+          "firstName": "Lukas",
+          "lastName": "Heinzl",
+          "gender": true,
+          "photo": "Mi8yMi8yMjAzL2ltYWdlLmpwZw=="
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 1390,
+          "firstName": "Lukas",
+          "lastName": "Rulc",
+          "gender": true,
+          "photo": "MS8xMy8xMzkwL3Bob3RvLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "3",
+        "player2Score": "1",
+        "technicalResult": 0,
+        "startDate": "2025-05-09T14:15:00.000Z",
+        "activePlayerId": 1390,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-05-09 Men Day2 Prague",
+        "locationId": 11,
+        "dayPeriodToken": 5,
+        "correction": 0,
+        "winner": {
+          "id": 2203,
+          "firstName": "Lukas",
+          "lastName": "Heinzl",
+          "gender": true,
+          "photo": "Mi8yMi8yMjAzL2ltYWdlLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 631271,
+            "number": 1,
+            "p1Score": 5,
+            "p2Score": 11
+          },
+          {
+            "match_id": 631271,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 9
+          },
+          {
+            "match_id": 631271,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 9
+          },
+          {
+            "match_id": 631271,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 9
+          }
+        ]
+      },
+      {
+        "id": 631272,
+        "tournamentId": 46543,
+        "statusId": 3,
+        "position": 4,
+        "player1": {
+          "id": 2576,
+          "firstName": "Lukas",
+          "lastName": "Svoboda",
+          "gender": true,
+          "photo": "Mi8yNS8yNTc2L2ltYWdlLmpwZw=="
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 2404,
+          "firstName": "Radovan",
+          "lastName": "Pisa",
+          "gender": true,
+          "photo": "Mi8yNC8yNDA0L2ltYWdlLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "3",
+        "player2Score": "2",
+        "technicalResult": 0,
+        "startDate": "2025-05-09T14:45:00.000Z",
+        "activePlayerId": 2576,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-05-09 Men Day2 Prague",
+        "locationId": 11,
+        "dayPeriodToken": 5,
+        "correction": 0,
+        "winner": {
+          "id": 2576,
+          "firstName": "Lukas",
+          "lastName": "Svoboda",
+          "gender": true,
+          "photo": "Mi8yNS8yNTc2L2ltYWdlLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 631272,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 6
+          },
+          {
+            "match_id": 631272,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 13
+          },
+          {
+            "match_id": 631272,
+            "number": 3,
+            "p1Score": 9,
+            "p2Score": 11
+          },
+          {
+            "match_id": 631272,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 4
+          },
+          {
+            "match_id": 631272,
+            "number": 5,
+            "p1Score": 12,
+            "p2Score": 10
+          }
+        ]
+      },
+      {
+        "id": 631273,
+        "tournamentId": 46543,
+        "statusId": 3,
+        "position": 5,
+        "player1": {
+          "id": 2203,
+          "firstName": "Lukas",
+          "lastName": "Heinzl",
+          "gender": true,
+          "photo": "Mi8yMi8yMjAzL2ltYWdlLmpwZw=="
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 2576,
+          "firstName": "Lukas",
+          "lastName": "Svoboda",
+          "gender": true,
+          "photo": "Mi8yNS8yNTc2L2ltYWdlLmpwZw=="
+        },
+        "player2ColorId": 5,
+        "player1Score": "3",
+        "player2Score": "0",
+        "technicalResult": 0,
+        "startDate": "2025-05-09T15:15:00.000Z",
+        "activePlayerId": 2576,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-05-09 Men Day2 Prague",
+        "locationId": 11,
+        "dayPeriodToken": 5,
+        "correction": 0,
+        "winner": {
+          "id": 2203,
+          "firstName": "Lukas",
+          "lastName": "Heinzl",
+          "gender": true,
+          "photo": "Mi8yMi8yMjAzL2ltYWdlLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 631273,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 4
+          },
+          {
+            "match_id": 631273,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 5
+          },
+          {
+            "match_id": 631273,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 9
+          }
+        ]
+      },
+      {
+        "id": 631274,
+        "tournamentId": 46543,
+        "statusId": 3,
+        "position": 6,
+        "player1": {
+          "id": 1390,
+          "firstName": "Lukas",
+          "lastName": "Rulc",
+          "gender": true,
+          "photo": "MS8xMy8xMzkwL3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 2404,
+          "firstName": "Radovan",
+          "lastName": "Pisa",
+          "gender": true,
+          "photo": "Mi8yNC8yNDA0L2ltYWdlLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "3",
+        "player2Score": "2",
+        "technicalResult": 0,
+        "startDate": "2025-05-09T15:45:00.000Z",
+        "activePlayerId": 1390,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-05-09 Men Day2 Prague",
+        "locationId": 11,
+        "dayPeriodToken": 5,
+        "correction": 0,
+        "winner": {
+          "id": 1390,
+          "firstName": "Lukas",
+          "lastName": "Rulc",
+          "gender": true,
+          "photo": "MS8xMy8xMzkwL3Bob3RvLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 631274,
+            "number": 1,
+            "p1Score": 4,
+            "p2Score": 11
+          },
+          {
+            "match_id": 631274,
+            "number": 2,
+            "p1Score": 5,
+            "p2Score": 11
+          },
+          {
+            "match_id": 631274,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 9
+          },
+          {
+            "match_id": 631274,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 9
+          },
+          {
+            "match_id": 631274,
+            "number": 5,
+            "p1Score": 11,
+            "p2Score": 6
+          }
+        ]
+      },
+      {
+        "id": 631781,
+        "tournamentId": 46543,
+        "statusId": 3,
+        "position": 7,
+        "player1": {
+          "id": 2576,
+          "firstName": "Lukas",
+          "lastName": "Svoboda",
+          "gender": true,
+          "photo": "Mi8yNS8yNTc2L2ltYWdlLmpwZw=="
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 2203,
+          "firstName": "Lukas",
+          "lastName": "Heinzl",
+          "gender": true,
+          "photo": "Mi8yMi8yMjAzL2ltYWdlLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "3",
+        "player2Score": "2",
+        "technicalResult": 0,
+        "startDate": "2025-05-09T16:25:00.000Z",
+        "activePlayerId": 2203,
+        "reverse": 0,
+        "forPositionId": 2,
+        "tournamentName": "2025-05-09 Men Day2 Prague",
+        "locationId": 11,
+        "dayPeriodToken": 5,
+        "correction": 0,
+        "winner": {
+          "id": 2576,
+          "firstName": "Lukas",
+          "lastName": "Svoboda",
+          "gender": true,
+          "photo": "Mi8yNS8yNTc2L2ltYWdlLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 631781,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 8
+          },
+          {
+            "match_id": 631781,
+            "number": 2,
+            "p1Score": 8,
+            "p2Score": 11
+          },
+          {
+            "match_id": 631781,
+            "number": 3,
+            "p1Score": 7,
+            "p2Score": 11
+          },
+          {
+            "match_id": 631781,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 3
+          },
+          {
+            "match_id": 631781,
+            "number": 5,
+            "p1Score": 11,
+            "p2Score": 8
+          }
+        ]
+      },
+      {
+        "id": 631782,
+        "tournamentId": 46543,
+        "statusId": 3,
+        "position": 8,
+        "player1": {
+          "id": 2404,
+          "firstName": "Radovan",
+          "lastName": "Pisa",
+          "gender": true,
+          "photo": "Mi8yNC8yNDA0L2ltYWdlLmpwZw=="
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 1390,
+          "firstName": "Lukas",
+          "lastName": "Rulc",
+          "gender": true,
+          "photo": "MS8xMy8xMzkwL3Bob3RvLmpwZw=="
+        },
+        "player2ColorId": 5,
+        "player1Score": "1",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-05-09T16:55:00.000Z",
+        "activePlayerId": 1390,
+        "reverse": 1,
+        "forPositionId": 3,
+        "tournamentName": "2025-05-09 Men Day2 Prague",
+        "locationId": 11,
+        "dayPeriodToken": 5,
+        "correction": 0,
+        "winner": {
+          "id": 1390,
+          "firstName": "Lukas",
+          "lastName": "Rulc",
+          "gender": true,
+          "photo": "MS8xMy8xMzkwL3Bob3RvLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 631782,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 2
+          },
+          {
+            "match_id": 631782,
+            "number": 2,
+            "p1Score": 7,
+            "p2Score": 11
+          },
+          {
+            "match_id": 631782,
+            "number": 3,
+            "p1Score": 9,
+            "p2Score": 11
+          },
+          {
+            "match_id": 631782,
+            "number": 4,
+            "p1Score": 9,
+            "p2Score": 11
+          }
+        ]
+      }
+    ],
+    "secondCircle": false,
+    "startDate": "2025-05-09T13:15:00.000Z",
+    "statusCode": "finished",
+    "token": "2025-05-09 Men Day2 Prague",
+    "divisionToken": "Men",
+    "result": {
+      "matches": {
+        "1": {
+          "2203-2404": {
+            "match_id": "631269",
+            "status": "finished",
+            "winner": "2404",
+            "score": {
+              "2203": 1,
+              "2404": 3
+            }
+          },
+          "2404-2203": {
+            "match_id": "631269",
+            "status": "finished",
+            "winner": "2404",
+            "score": {
+              "2203": 1,
+              "2404": 3
+            }
+          },
+          "2576-1390": {
+            "match_id": "631270",
+            "status": "finished",
+            "winner": "2576",
+            "score": {
+              "1390": 1,
+              "2576": 3
+            }
+          },
+          "1390-2576": {
+            "match_id": "631270",
+            "status": "finished",
+            "winner": "2576",
+            "score": {
+              "1390": 1,
+              "2576": 3
+            }
+          },
+          "2203-1390": {
+            "match_id": "631271",
+            "status": "finished",
+            "winner": "2203",
+            "score": {
+              "1390": 1,
+              "2203": 3
+            }
+          },
+          "1390-2203": {
+            "match_id": "631271",
+            "status": "finished",
+            "winner": "2203",
+            "score": {
+              "1390": 1,
+              "2203": 3
+            }
+          },
+          "2576-2404": {
+            "match_id": "631272",
+            "status": "finished",
+            "winner": "2576",
+            "score": {
+              "2404": 2,
+              "2576": 3
+            }
+          },
+          "2404-2576": {
+            "match_id": "631272",
+            "status": "finished",
+            "winner": "2576",
+            "score": {
+              "2404": 2,
+              "2576": 3
+            }
+          },
+          "2203-2576": {
+            "match_id": "631273",
+            "status": "finished",
+            "winner": "2203",
+            "score": {
+              "2203": 3,
+              "2576": 0
+            }
+          },
+          "2576-2203": {
+            "match_id": "631273",
+            "status": "finished",
+            "winner": "2203",
+            "score": {
+              "2203": 3,
+              "2576": 0
+            }
+          },
+          "1390-2404": {
+            "match_id": "631274",
+            "status": "finished",
+            "winner": "1390",
+            "score": {
+              "1390": 3,
+              "2404": 2
+            }
+          },
+          "2404-1390": {
+            "match_id": "631274",
+            "status": "finished",
+            "winner": "1390",
+            "score": {
+              "1390": 3,
+              "2404": 2
+            }
+          }
+        }
+      },
+      "players": {
+        "1390": {
+          "points": 4,
+          "real_points": 6,
+          "position": 3,
+          "real_position": 3,
+          "matches": {
+            "won": 2,
+            "lose": 2,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 4
+          },
+          "sets": {
+            "won": 8,
+            "lose": 9,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 17
+          },
+          "id": 1390,
+          "number": 1,
+          "firstName": "Lukas",
+          "lastName": "Rulc",
+          "gender": true,
+          "photo": "MS8xMy8xMzkwL3Bob3RvLmpwZw=="
+        },
+        "2203": {
+          "points": 5,
+          "real_points": 6,
+          "position": 1,
+          "real_position": 2,
+          "matches": {
+            "won": 2,
+            "lose": 2,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 4
+          },
+          "sets": {
+            "won": 9,
+            "lose": 7,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 16
+          },
+          "id": 2203,
+          "number": 2,
+          "firstName": "Lukas",
+          "lastName": "Heinzl",
+          "gender": true,
+          "photo": "Mi8yMi8yMjAzL2ltYWdlLmpwZw=="
+        },
+        "2404": {
+          "points": 4,
+          "real_points": 5,
+          "position": 4,
+          "real_position": 4,
+          "matches": {
+            "won": 1,
+            "lose": 3,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 4
+          },
+          "sets": {
+            "won": 8,
+            "lose": 10,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 18
+          },
+          "id": 2404,
+          "number": 3,
+          "firstName": "Radovan",
+          "lastName": "Pisa",
+          "gender": true,
+          "photo": "Mi8yNC8yNDA0L2ltYWdlLmpwZw=="
+        },
+        "2576": {
+          "points": 5,
+          "real_points": 7,
+          "position": 2,
+          "real_position": 1,
+          "matches": {
+            "won": 3,
+            "lose": 1,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 4
+          },
+          "sets": {
+            "won": 9,
+            "lose": 8,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 17
+          },
+          "id": 2576,
+          "number": 4,
+          "firstName": "Lukas",
+          "lastName": "Svoboda",
+          "gender": true,
+          "photo": "Mi8yNS8yNTc2L2ltYWdlLmpwZw=="
+        }
+      },
+      "positions": {
+        "1390": 3,
+        "2203": 2,
+        "2404": 4,
+        "2576": 1
+      }
+    }
+  },
+  {
+    "id": 46547,
+    "code": "sc-location-14-250508140534-1809",
+    "dayPeriodToken": 5,
+    "locationId": 14,
+    "matches": [
+      {
+        "id": 631308,
+        "tournamentId": 46547,
+        "statusId": 3,
+        "position": 1,
+        "player1": {
+          "id": 2654,
+          "firstName": "Filip",
+          "lastName": "Husek",
+          "gender": true,
+          "photo": "Mi8yNi8yNjU0L2ltYWdlLmpwZw=="
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 1110,
+          "firstName": "Jan",
+          "lastName": "Blazek",
+          "gender": true,
+          "photo": "MS8xMS8xMTEwL3Bob3RvLmpwZw=="
+        },
+        "player2ColorId": 5,
+        "player1Score": "3",
+        "player2Score": "2",
+        "technicalResult": 0,
+        "startDate": "2025-05-09T13:30:00.000Z",
+        "activePlayerId": 1110,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-05-09 Men Day2 Paris",
+        "locationId": 14,
+        "dayPeriodToken": 5,
+        "correction": 0,
+        "winner": {
+          "id": 2654,
+          "firstName": "Filip",
+          "lastName": "Husek",
+          "gender": true,
+          "photo": "Mi8yNi8yNjU0L2ltYWdlLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 631308,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 4
+          },
+          {
+            "match_id": 631308,
+            "number": 2,
+            "p1Score": 12,
+            "p2Score": 14
+          },
+          {
+            "match_id": 631308,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 6
+          },
+          {
+            "match_id": 631308,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 13
+          },
+          {
+            "match_id": 631308,
+            "number": 5,
+            "p1Score": 11,
+            "p2Score": 4
+          }
+        ]
+      },
+      {
+        "id": 631309,
+        "tournamentId": 46547,
+        "statusId": 3,
+        "position": 2,
+        "player1": {
+          "id": 1738,
+          "firstName": "Marian",
+          "lastName": "Melisek",
+          "gender": true,
+          "photo": "MS8xNy8xNzM4L3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 1081,
+          "firstName": "Petr",
+          "lastName": "Fiser",
+          "gender": true,
+          "photo": "MS8xMC8xMDgxL3Bob3RvLmpwZw=="
+        },
+        "player2ColorId": 5,
+        "player1Score": "3",
+        "player2Score": "1",
+        "technicalResult": 0,
+        "startDate": "2025-05-09T14:00:00.000Z",
+        "activePlayerId": 1081,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-05-09 Men Day2 Paris",
+        "locationId": 14,
+        "dayPeriodToken": 5,
+        "correction": 0,
+        "winner": {
+          "id": 1738,
+          "firstName": "Marian",
+          "lastName": "Melisek",
+          "gender": true,
+          "photo": "MS8xNy8xNzM4L3Bob3RvLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 631309,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 3
+          },
+          {
+            "match_id": 631309,
+            "number": 2,
+            "p1Score": 6,
+            "p2Score": 11
+          },
+          {
+            "match_id": 631309,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 9
+          },
+          {
+            "match_id": 631309,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 9
+          }
+        ]
+      },
+      {
+        "id": 631310,
+        "tournamentId": 46547,
+        "statusId": 3,
+        "position": 3,
+        "player1": {
+          "id": 2654,
+          "firstName": "Filip",
+          "lastName": "Husek",
+          "gender": true,
+          "photo": "Mi8yNi8yNjU0L2ltYWdlLmpwZw=="
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 1081,
+          "firstName": "Petr",
+          "lastName": "Fiser",
+          "gender": true,
+          "photo": "MS8xMC8xMDgxL3Bob3RvLmpwZw=="
+        },
+        "player2ColorId": 5,
+        "player1Score": "1",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-05-09T14:30:00.000Z",
+        "activePlayerId": 2654,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-05-09 Men Day2 Paris",
+        "locationId": 14,
+        "dayPeriodToken": 5,
+        "correction": 0,
+        "winner": {
+          "id": 1081,
+          "firstName": "Petr",
+          "lastName": "Fiser",
+          "gender": true,
+          "photo": "MS8xMC8xMDgxL3Bob3RvLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 631310,
+            "number": 1,
+            "p1Score": 7,
+            "p2Score": 11
+          },
+          {
+            "match_id": 631310,
+            "number": 2,
+            "p1Score": 7,
+            "p2Score": 11
+          },
+          {
+            "match_id": 631310,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 7
+          },
+          {
+            "match_id": 631310,
+            "number": 4,
+            "p1Score": 5,
+            "p2Score": 11
+          }
+        ]
+      },
+      {
+        "id": 631311,
+        "tournamentId": 46547,
+        "statusId": 3,
+        "position": 4,
+        "player1": {
+          "id": 1738,
+          "firstName": "Marian",
+          "lastName": "Melisek",
+          "gender": true,
+          "photo": "MS8xNy8xNzM4L3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 1110,
+          "firstName": "Jan",
+          "lastName": "Blazek",
+          "gender": true,
+          "photo": "MS8xMS8xMTEwL3Bob3RvLmpwZw=="
+        },
+        "player2ColorId": 5,
+        "player1Score": "3",
+        "player2Score": "0",
+        "technicalResult": 0,
+        "startDate": "2025-05-09T15:00:00.000Z",
+        "activePlayerId": 1738,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-05-09 Men Day2 Paris",
+        "locationId": 14,
+        "dayPeriodToken": 5,
+        "correction": 0,
+        "winner": {
+          "id": 1738,
+          "firstName": "Marian",
+          "lastName": "Melisek",
+          "gender": true,
+          "photo": "MS8xNy8xNzM4L3Bob3RvLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 631311,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 6
+          },
+          {
+            "match_id": 631311,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 7
+          },
+          {
+            "match_id": 631311,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 5
+          }
+        ]
+      },
+      {
+        "id": 631312,
+        "tournamentId": 46547,
+        "statusId": 3,
+        "position": 5,
+        "player1": {
+          "id": 2654,
+          "firstName": "Filip",
+          "lastName": "Husek",
+          "gender": true,
+          "photo": "Mi8yNi8yNjU0L2ltYWdlLmpwZw=="
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 1738,
+          "firstName": "Marian",
+          "lastName": "Melisek",
+          "gender": true,
+          "photo": "MS8xNy8xNzM4L3Bob3RvLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "1",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-05-09T15:30:00.000Z",
+        "activePlayerId": 2654,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-05-09 Men Day2 Paris",
+        "locationId": 14,
+        "dayPeriodToken": 5,
+        "correction": 0,
+        "winner": {
+          "id": 1738,
+          "firstName": "Marian",
+          "lastName": "Melisek",
+          "gender": true,
+          "photo": "MS8xNy8xNzM4L3Bob3RvLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 631312,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 7
+          },
+          {
+            "match_id": 631312,
+            "number": 2,
+            "p1Score": 7,
+            "p2Score": 11
+          },
+          {
+            "match_id": 631312,
+            "number": 3,
+            "p1Score": 4,
+            "p2Score": 11
+          },
+          {
+            "match_id": 631312,
+            "number": 4,
+            "p1Score": 4,
+            "p2Score": 11
+          }
+        ]
+      },
+      {
+        "id": 631313,
+        "tournamentId": 46547,
+        "statusId": 3,
+        "position": 6,
+        "player1": {
+          "id": 1081,
+          "firstName": "Petr",
+          "lastName": "Fiser",
+          "gender": true,
+          "photo": "MS8xMC8xMDgxL3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 1110,
+          "firstName": "Jan",
+          "lastName": "Blazek",
+          "gender": true,
+          "photo": "MS8xMS8xMTEwL3Bob3RvLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "1",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-05-09T16:00:00.000Z",
+        "activePlayerId": 1110,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-05-09 Men Day2 Paris",
+        "locationId": 14,
+        "dayPeriodToken": 5,
+        "correction": 0,
+        "winner": {
+          "id": 1110,
+          "firstName": "Jan",
+          "lastName": "Blazek",
+          "gender": true,
+          "photo": "MS8xMS8xMTEwL3Bob3RvLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 631313,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 8
+          },
+          {
+            "match_id": 631313,
+            "number": 2,
+            "p1Score": 13,
+            "p2Score": 15
+          },
+          {
+            "match_id": 631313,
+            "number": 3,
+            "p1Score": 7,
+            "p2Score": 11
+          },
+          {
+            "match_id": 631313,
+            "number": 4,
+            "p1Score": 5,
+            "p2Score": 11
+          }
+        ]
+      },
+      {
+        "id": 631786,
+        "tournamentId": 46547,
+        "statusId": 3,
+        "position": 7,
+        "player1": {
+          "id": 1081,
+          "firstName": "Petr",
+          "lastName": "Fiser",
+          "gender": true,
+          "photo": "MS8xMC8xMDgxL3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 2654,
+          "firstName": "Filip",
+          "lastName": "Husek",
+          "gender": true,
+          "photo": "Mi8yNi8yNjU0L2ltYWdlLmpwZw=="
+        },
+        "player2ColorId": 5,
+        "player1Score": "3",
+        "player2Score": "1",
+        "technicalResult": 0,
+        "startDate": "2025-05-09T16:35:00.000Z",
+        "activePlayerId": 1081,
+        "reverse": 1,
+        "forPositionId": 3,
+        "tournamentName": "2025-05-09 Men Day2 Paris",
+        "locationId": 14,
+        "dayPeriodToken": 5,
+        "correction": 0,
+        "winner": {
+          "id": 1081,
+          "firstName": "Petr",
+          "lastName": "Fiser",
+          "gender": true,
+          "photo": "MS8xMC8xMDgxL3Bob3RvLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 631786,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 4
+          },
+          {
+            "match_id": 631786,
+            "number": 2,
+            "p1Score": 18,
+            "p2Score": 16
+          },
+          {
+            "match_id": 631786,
+            "number": 3,
+            "p1Score": 3,
+            "p2Score": 11
+          },
+          {
+            "match_id": 631786,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 7
+          }
+        ]
+      },
+      {
+        "id": 631787,
+        "tournamentId": 46547,
+        "statusId": 3,
+        "position": 8,
+        "player1": {
+          "id": 1110,
+          "firstName": "Jan",
+          "lastName": "Blazek",
+          "gender": true,
+          "photo": "MS8xMS8xMTEwL3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 1738,
+          "firstName": "Marian",
+          "lastName": "Melisek",
+          "gender": true,
+          "photo": "MS8xNy8xNzM4L3Bob3RvLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "0",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-05-09T17:05:00.000Z",
+        "activePlayerId": 1110,
+        "reverse": 0,
+        "forPositionId": 2,
+        "tournamentName": "2025-05-09 Men Day2 Paris",
+        "locationId": 14,
+        "dayPeriodToken": 5,
+        "correction": 0,
+        "winner": {
+          "id": 1738,
+          "firstName": "Marian",
+          "lastName": "Melisek",
+          "gender": true,
+          "photo": "MS8xNy8xNzM4L3Bob3RvLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 631787,
+            "number": 1,
+            "p1Score": 6,
+            "p2Score": 11
+          },
+          {
+            "match_id": 631787,
+            "number": 2,
+            "p1Score": 8,
+            "p2Score": 11
+          },
+          {
+            "match_id": 631787,
+            "number": 3,
+            "p1Score": 7,
+            "p2Score": 11
+          }
+        ]
+      }
+    ],
+    "secondCircle": false,
+    "startDate": "2025-05-09T13:30:00.000Z",
+    "statusCode": "finished",
+    "token": "2025-05-09 Men Day2 Paris",
+    "divisionToken": "Men",
+    "result": {
+      "matches": {
+        "1": {
+          "2654-1110": {
+            "match_id": "631308",
+            "status": "finished",
+            "winner": "2654",
+            "score": {
+              "1110": 2,
+              "2654": 3
+            }
+          },
+          "1110-2654": {
+            "match_id": "631308",
+            "status": "finished",
+            "winner": "2654",
+            "score": {
+              "1110": 2,
+              "2654": 3
+            }
+          },
+          "1738-1081": {
+            "match_id": "631309",
+            "status": "finished",
+            "winner": "1738",
+            "score": {
+              "1081": 1,
+              "1738": 3
+            }
+          },
+          "1081-1738": {
+            "match_id": "631309",
+            "status": "finished",
+            "winner": "1738",
+            "score": {
+              "1081": 1,
+              "1738": 3
+            }
+          },
+          "2654-1081": {
+            "match_id": "631310",
+            "status": "finished",
+            "winner": "1081",
+            "score": {
+              "1081": 3,
+              "2654": 1
+            }
+          },
+          "1081-2654": {
+            "match_id": "631310",
+            "status": "finished",
+            "winner": "1081",
+            "score": {
+              "1081": 3,
+              "2654": 1
+            }
+          },
+          "1738-1110": {
+            "match_id": "631311",
+            "status": "finished",
+            "winner": "1738",
+            "score": {
+              "1110": 0,
+              "1738": 3
+            }
+          },
+          "1110-1738": {
+            "match_id": "631311",
+            "status": "finished",
+            "winner": "1738",
+            "score": {
+              "1110": 0,
+              "1738": 3
+            }
+          },
+          "2654-1738": {
+            "match_id": "631312",
+            "status": "finished",
+            "winner": "1738",
+            "score": {
+              "1738": 3,
+              "2654": 1
+            }
+          },
+          "1738-2654": {
+            "match_id": "631312",
+            "status": "finished",
+            "winner": "1738",
+            "score": {
+              "1738": 3,
+              "2654": 1
+            }
+          },
+          "1081-1110": {
+            "match_id": "631313",
+            "status": "finished",
+            "winner": "1110",
+            "score": {
+              "1081": 1,
+              "1110": 3
+            }
+          },
+          "1110-1081": {
+            "match_id": "631313",
+            "status": "finished",
+            "winner": "1110",
+            "score": {
+              "1081": 1,
+              "1110": 3
+            }
+          }
+        }
+      },
+      "players": {
+        "1081": {
+          "points": 4,
+          "real_points": 6,
+          "position": 3,
+          "real_position": 3,
+          "matches": {
+            "won": 2,
+            "lose": 2,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 4
+          },
+          "sets": {
+            "won": 8,
+            "lose": 8,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 16
+          },
+          "id": 1081,
+          "number": 1,
+          "firstName": "Petr",
+          "lastName": "Fiser",
+          "gender": true,
+          "photo": "MS8xMC8xMDgxL3Bob3RvLmpwZw=="
+        },
+        "1110": {
+          "points": 4,
+          "real_points": 5,
+          "position": 2,
+          "real_position": 2,
+          "matches": {
+            "won": 1,
+            "lose": 3,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 4
+          },
+          "sets": {
+            "won": 5,
+            "lose": 10,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 15
+          },
+          "id": 1110,
+          "number": 2,
+          "firstName": "Jan",
+          "lastName": "Blazek",
+          "gender": true,
+          "photo": "MS8xMS8xMTEwL3Bob3RvLmpwZw=="
+        },
+        "1738": {
+          "points": 6,
+          "real_points": 8,
+          "position": 1,
+          "real_position": 1,
+          "matches": {
+            "won": 4,
+            "lose": 0,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 4
+          },
+          "sets": {
+            "won": 12,
+            "lose": 2,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 14
+          },
+          "id": 1738,
+          "number": 3,
+          "firstName": "Marian",
+          "lastName": "Melisek",
+          "gender": true,
+          "photo": "MS8xNy8xNzM4L3Bob3RvLmpwZw=="
+        },
+        "2654": {
+          "points": 4,
+          "real_points": 5,
+          "position": 4,
+          "real_position": 4,
+          "matches": {
+            "won": 1,
+            "lose": 3,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 4
+          },
+          "sets": {
+            "won": 6,
+            "lose": 11,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 17
+          },
+          "id": 2654,
+          "number": 4,
+          "firstName": "Filip",
+          "lastName": "Husek",
+          "gender": true,
+          "photo": "Mi8yNi8yNjU0L2ltYWdlLmpwZw=="
+        }
+      },
+      "positions": {
+        "1081": 3,
+        "1110": 2,
+        "1738": 1,
+        "2654": 4
+      }
+    }
+  },
+  {
+    "id": 46551,
+    "code": "sc-location-18-250508141326-4431",
+    "dayPeriodToken": 5,
+    "locationId": 18,
+    "matches": [
+      {
+        "id": 631332,
+        "tournamentId": 46551,
+        "statusId": 3,
+        "position": 1,
+        "player1": {
+          "id": 1822,
+          "firstName": "Iuri",
+          "lastName": "Iurcenco",
+          "gender": true,
+          "photo": "MS8xOC8xODIyL3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 1788,
+          "firstName": "Dinu",
+          "lastName": "Stanciu",
+          "gender": true,
+          "photo": "MS8xNy8xNzg4L3Bob3RvLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "3",
+        "player2Score": "1",
+        "technicalResult": 0,
+        "startDate": "2025-05-09T12:00:00.000Z",
+        "activePlayerId": 1788,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-05-09 Men Day2 Mexico",
+        "locationId": 18,
+        "dayPeriodToken": 5,
+        "correction": 0,
+        "winner": {
+          "id": 1822,
+          "firstName": "Iuri",
+          "lastName": "Iurcenco",
+          "gender": true,
+          "photo": "MS8xOC8xODIyL3Bob3RvLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 631332,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 5
+          },
+          {
+            "match_id": 631332,
+            "number": 2,
+            "p1Score": 10,
+            "p2Score": 12
+          },
+          {
+            "match_id": 631332,
+            "number": 3,
+            "p1Score": 12,
+            "p2Score": 10
+          },
+          {
+            "match_id": 631332,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 7
+          }
+        ]
+      },
+      {
+        "id": 631333,
+        "tournamentId": 46551,
+        "statusId": 3,
+        "position": 2,
+        "player1": {
+          "id": 1619,
+          "firstName": "Serghei",
+          "lastName": "Mirciu",
+          "gender": true,
+          "photo": "MS8xNi8xNjE5L3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 2574,
+          "firstName": "Daniel",
+          "lastName": "Batrincea",
+          "gender": true,
+          "photo": "Mi8yNS8yNTc0L2ltYWdlLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "3",
+        "player2Score": "1",
+        "technicalResult": 0,
+        "startDate": "2025-05-09T12:30:00.000Z",
+        "activePlayerId": 2574,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-05-09 Men Day2 Mexico",
+        "locationId": 18,
+        "dayPeriodToken": 5,
+        "correction": 0,
+        "winner": {
+          "id": 1619,
+          "firstName": "Serghei",
+          "lastName": "Mirciu",
+          "gender": true,
+          "photo": "MS8xNi8xNjE5L3Bob3RvLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 631333,
+            "number": 1,
+            "p1Score": 7,
+            "p2Score": 11
+          },
+          {
+            "match_id": 631333,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 6
+          },
+          {
+            "match_id": 631333,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 8
+          },
+          {
+            "match_id": 631333,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 8
+          }
+        ]
+      },
+      {
+        "id": 631334,
+        "tournamentId": 46551,
+        "statusId": 3,
+        "position": 3,
+        "player1": {
+          "id": 1822,
+          "firstName": "Iuri",
+          "lastName": "Iurcenco",
+          "gender": true,
+          "photo": "MS8xOC8xODIyL3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 2574,
+          "firstName": "Daniel",
+          "lastName": "Batrincea",
+          "gender": true,
+          "photo": "Mi8yNS8yNTc0L2ltYWdlLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "1",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-05-09T13:00:00.000Z",
+        "activePlayerId": 2574,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-05-09 Men Day2 Mexico",
+        "locationId": 18,
+        "dayPeriodToken": 5,
+        "correction": 0,
+        "winner": {
+          "id": 2574,
+          "firstName": "Daniel",
+          "lastName": "Batrincea",
+          "gender": true,
+          "photo": "Mi8yNS8yNTc0L2ltYWdlLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 631334,
+            "number": 1,
+            "p1Score": 1,
+            "p2Score": 11
+          },
+          {
+            "match_id": 631334,
+            "number": 2,
+            "p1Score": 6,
+            "p2Score": 11
+          },
+          {
+            "match_id": 631334,
+            "number": 3,
+            "p1Score": 12,
+            "p2Score": 10
+          },
+          {
+            "match_id": 631334,
+            "number": 4,
+            "p1Score": 9,
+            "p2Score": 11
+          }
+        ]
+      },
+      {
+        "id": 631335,
+        "tournamentId": 46551,
+        "statusId": 3,
+        "position": 4,
+        "player1": {
+          "id": 1619,
+          "firstName": "Serghei",
+          "lastName": "Mirciu",
+          "gender": true,
+          "photo": "MS8xNi8xNjE5L3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 1788,
+          "firstName": "Dinu",
+          "lastName": "Stanciu",
+          "gender": true,
+          "photo": "MS8xNy8xNzg4L3Bob3RvLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "1",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-05-09T13:30:00.000Z",
+        "activePlayerId": 1788,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-05-09 Men Day2 Mexico",
+        "locationId": 18,
+        "dayPeriodToken": 5,
+        "correction": 0,
+        "winner": {
+          "id": 1788,
+          "firstName": "Dinu",
+          "lastName": "Stanciu",
+          "gender": true,
+          "photo": "MS8xNy8xNzg4L3Bob3RvLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 631335,
+            "number": 1,
+            "p1Score": 5,
+            "p2Score": 11
+          },
+          {
+            "match_id": 631335,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 5
+          },
+          {
+            "match_id": 631335,
+            "number": 3,
+            "p1Score": 4,
+            "p2Score": 11
+          },
+          {
+            "match_id": 631335,
+            "number": 4,
+            "p1Score": 8,
+            "p2Score": 11
+          }
+        ]
+      },
+      {
+        "id": 631336,
+        "tournamentId": 46551,
+        "statusId": 3,
+        "position": 5,
+        "player1": {
+          "id": 1822,
+          "firstName": "Iuri",
+          "lastName": "Iurcenco",
+          "gender": true,
+          "photo": "MS8xOC8xODIyL3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 1619,
+          "firstName": "Serghei",
+          "lastName": "Mirciu",
+          "gender": true,
+          "photo": "MS8xNi8xNjE5L3Bob3RvLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "3",
+        "player2Score": "1",
+        "technicalResult": 0,
+        "startDate": "2025-05-09T14:00:00.000Z",
+        "activePlayerId": 1822,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-05-09 Men Day2 Mexico",
+        "locationId": 18,
+        "dayPeriodToken": 5,
+        "correction": 0,
+        "winner": {
+          "id": 1822,
+          "firstName": "Iuri",
+          "lastName": "Iurcenco",
+          "gender": true,
+          "photo": "MS8xOC8xODIyL3Bob3RvLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 631336,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 7
+          },
+          {
+            "match_id": 631336,
+            "number": 2,
+            "p1Score": 7,
+            "p2Score": 11
+          },
+          {
+            "match_id": 631336,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 4
+          },
+          {
+            "match_id": 631336,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 4
+          }
+        ]
+      },
+      {
+        "id": 631337,
+        "tournamentId": 46551,
+        "statusId": 3,
+        "position": 6,
+        "player1": {
+          "id": 2574,
+          "firstName": "Daniel",
+          "lastName": "Batrincea",
+          "gender": true,
+          "photo": "Mi8yNS8yNTc0L2ltYWdlLmpwZw=="
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 1788,
+          "firstName": "Dinu",
+          "lastName": "Stanciu",
+          "gender": true,
+          "photo": "MS8xNy8xNzg4L3Bob3RvLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "3",
+        "player2Score": "2",
+        "technicalResult": 0,
+        "startDate": "2025-05-09T14:30:00.000Z",
+        "activePlayerId": 2574,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-05-09 Men Day2 Mexico",
+        "locationId": 18,
+        "dayPeriodToken": 5,
+        "correction": 0,
+        "winner": {
+          "id": 2574,
+          "firstName": "Daniel",
+          "lastName": "Batrincea",
+          "gender": true,
+          "photo": "Mi8yNS8yNTc0L2ltYWdlLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 631337,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 9
+          },
+          {
+            "match_id": 631337,
+            "number": 2,
+            "p1Score": 10,
+            "p2Score": 12
+          },
+          {
+            "match_id": 631337,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 9
+          },
+          {
+            "match_id": 631337,
+            "number": 4,
+            "p1Score": 9,
+            "p2Score": 11
+          },
+          {
+            "match_id": 631337,
+            "number": 5,
+            "p1Score": 11,
+            "p2Score": 9
+          }
+        ]
+      },
+      {
+        "id": 631774,
+        "tournamentId": 46551,
+        "statusId": 3,
+        "position": 7,
+        "player1": {
+          "id": 1788,
+          "firstName": "Dinu",
+          "lastName": "Stanciu",
+          "gender": true,
+          "photo": "MS8xNy8xNzg4L3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 1619,
+          "firstName": "Serghei",
+          "lastName": "Mirciu",
+          "gender": true,
+          "photo": "MS8xNi8xNjE5L3Bob3RvLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "3",
+        "player2Score": "0",
+        "technicalResult": 0,
+        "startDate": "2025-05-09T15:20:00.000Z",
+        "activePlayerId": 1619,
+        "reverse": 0,
+        "forPositionId": 3,
+        "tournamentName": "2025-05-09 Men Day2 Mexico",
+        "locationId": 18,
+        "dayPeriodToken": 5,
+        "correction": 0,
+        "winner": {
+          "id": 1788,
+          "firstName": "Dinu",
+          "lastName": "Stanciu",
+          "gender": true,
+          "photo": "MS8xNy8xNzg4L3Bob3RvLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 631774,
+            "number": 1,
+            "p1Score": 12,
+            "p2Score": 10
+          },
+          {
+            "match_id": 631774,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 5
+          },
+          {
+            "match_id": 631774,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 5
+          }
+        ]
+      },
+      {
+        "id": 631775,
+        "tournamentId": 46551,
+        "statusId": 3,
+        "position": 8,
+        "player1": {
+          "id": 2574,
+          "firstName": "Daniel",
+          "lastName": "Batrincea",
+          "gender": true,
+          "photo": "Mi8yNS8yNTc0L2ltYWdlLmpwZw=="
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 1822,
+          "firstName": "Iuri",
+          "lastName": "Iurcenco",
+          "gender": true,
+          "photo": "MS8xOC8xODIyL3Bob3RvLmpwZw=="
+        },
+        "player2ColorId": 5,
+        "player1Score": "1",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-05-09T15:50:00.000Z",
+        "activePlayerId": 2574,
+        "reverse": 1,
+        "forPositionId": 2,
+        "tournamentName": "2025-05-09 Men Day2 Mexico",
+        "locationId": 18,
+        "dayPeriodToken": 5,
+        "correction": 0,
+        "winner": {
+          "id": 1822,
+          "firstName": "Iuri",
+          "lastName": "Iurcenco",
+          "gender": true,
+          "photo": "MS8xOC8xODIyL3Bob3RvLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 631775,
+            "number": 1,
+            "p1Score": 7,
+            "p2Score": 11
+          },
+          {
+            "match_id": 631775,
+            "number": 2,
+            "p1Score": 8,
+            "p2Score": 11
+          },
+          {
+            "match_id": 631775,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 8
+          },
+          {
+            "match_id": 631775,
+            "number": 4,
+            "p1Score": 5,
+            "p2Score": 11
+          }
+        ]
+      }
+    ],
+    "secondCircle": false,
+    "startDate": "2025-05-09T12:00:00.000Z",
+    "statusCode": "finished",
+    "token": "2025-05-09 Men Day2 Mexico",
+    "divisionToken": "Men",
+    "result": {
+      "matches": {
+        "1": {
+          "1822-1788": {
+            "match_id": "631332",
+            "status": "finished",
+            "winner": "1822",
+            "score": {
+              "1788": 1,
+              "1822": 3
+            }
+          },
+          "1788-1822": {
+            "match_id": "631332",
+            "status": "finished",
+            "winner": "1822",
+            "score": {
+              "1788": 1,
+              "1822": 3
+            }
+          },
+          "1619-2574": {
+            "match_id": "631333",
+            "status": "finished",
+            "winner": "1619",
+            "score": {
+              "1619": 3,
+              "2574": 1
+            }
+          },
+          "2574-1619": {
+            "match_id": "631333",
+            "status": "finished",
+            "winner": "1619",
+            "score": {
+              "1619": 3,
+              "2574": 1
+            }
+          },
+          "1822-2574": {
+            "match_id": "631334",
+            "status": "finished",
+            "winner": "2574",
+            "score": {
+              "1822": 1,
+              "2574": 3
+            }
+          },
+          "2574-1822": {
+            "match_id": "631334",
+            "status": "finished",
+            "winner": "2574",
+            "score": {
+              "1822": 1,
+              "2574": 3
+            }
+          },
+          "1619-1788": {
+            "match_id": "631335",
+            "status": "finished",
+            "winner": "1788",
+            "score": {
+              "1619": 1,
+              "1788": 3
+            }
+          },
+          "1788-1619": {
+            "match_id": "631335",
+            "status": "finished",
+            "winner": "1788",
+            "score": {
+              "1619": 1,
+              "1788": 3
+            }
+          },
+          "1822-1619": {
+            "match_id": "631336",
+            "status": "finished",
+            "winner": "1822",
+            "score": {
+              "1619": 1,
+              "1822": 3
+            }
+          },
+          "1619-1822": {
+            "match_id": "631336",
+            "status": "finished",
+            "winner": "1822",
+            "score": {
+              "1619": 1,
+              "1822": 3
+            }
+          },
+          "2574-1788": {
+            "match_id": "631337",
+            "status": "finished",
+            "winner": "2574",
+            "score": {
+              "1788": 2,
+              "2574": 3
+            }
+          },
+          "1788-2574": {
+            "match_id": "631337",
+            "status": "finished",
+            "winner": "2574",
+            "score": {
+              "1788": 2,
+              "2574": 3
+            }
+          }
+        }
+      },
+      "players": {
+        "1619": {
+          "points": 4,
+          "real_points": 5,
+          "position": 4,
+          "real_position": 4,
+          "matches": {
+            "won": 1,
+            "lose": 3,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 4
+          },
+          "sets": {
+            "won": 5,
+            "lose": 10,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 15
+          },
+          "id": 1619,
+          "number": 1,
+          "firstName": "Serghei",
+          "lastName": "Mirciu",
+          "gender": true,
+          "photo": "MS8xNi8xNjE5L3Bob3RvLmpwZw=="
+        },
+        "1788": {
+          "points": 4,
+          "real_points": 6,
+          "position": 3,
+          "real_position": 3,
+          "matches": {
+            "won": 2,
+            "lose": 2,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 4
+          },
+          "sets": {
+            "won": 9,
+            "lose": 7,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 16
+          },
+          "id": 1788,
+          "number": 2,
+          "firstName": "Dinu",
+          "lastName": "Stanciu",
+          "gender": true,
+          "photo": "MS8xNy8xNzg4L3Bob3RvLmpwZw=="
+        },
+        "1822": {
+          "points": 5,
+          "real_points": 7,
+          "position": 2,
+          "real_position": 1,
+          "matches": {
+            "won": 3,
+            "lose": 1,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 4
+          },
+          "sets": {
+            "won": 10,
+            "lose": 6,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 16
+          },
+          "id": 1822,
+          "number": 3,
+          "firstName": "Iuri",
+          "lastName": "Iurcenco",
+          "gender": true,
+          "photo": "MS8xOC8xODIyL3Bob3RvLmpwZw=="
+        },
+        "2574": {
+          "points": 5,
+          "real_points": 6,
+          "position": 1,
+          "real_position": 2,
+          "matches": {
+            "won": 2,
+            "lose": 2,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 4
+          },
+          "sets": {
+            "won": 8,
+            "lose": 9,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 17
+          },
+          "id": 2574,
+          "number": 4,
+          "firstName": "Daniel",
+          "lastName": "Batrincea",
+          "gender": true,
+          "photo": "Mi8yNS8yNTc0L2ltYWdlLmpwZw=="
+        }
+      },
+      "positions": {
+        "1619": 4,
+        "1788": 3,
+        "1822": 1,
+        "2574": 2
+      }
+    }
+  }
+]

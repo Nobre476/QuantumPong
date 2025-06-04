@@ -1,0 +1,5562 @@
+[
+  {
+    "id": 46047,
+    "code": "sc-location-19-250423142900-752",
+    "dayPeriodToken": 3,
+    "locationId": 19,
+    "matches": [
+      {
+        "id": 625373,
+        "tournamentId": 46047,
+        "statusId": 3,
+        "position": 1,
+        "player1": {
+          "id": 2557,
+          "firstName": "Vadim",
+          "lastName": "Burucenco",
+          "gender": true,
+          "photo": "Mi8yNS8yNTU3L2ltYWdlLmpwZw=="
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 2270,
+          "firstName": "Alexandr",
+          "lastName": "Bodac",
+          "gender": true,
+          "photo": "Mi8yMi8yMjcwL2ltYWdlLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "0",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T19:15:00.000Z",
+        "activePlayerId": 2557,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-24 Men Night Rio",
+        "locationId": 19,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 2270,
+          "firstName": "Alexandr",
+          "lastName": "Bodac",
+          "gender": true,
+          "photo": "Mi8yMi8yMjcwL2ltYWdlLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 625373,
+            "number": 1,
+            "p1Score": 5,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625373,
+            "number": 2,
+            "p1Score": 9,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625373,
+            "number": 3,
+            "p1Score": 7,
+            "p2Score": 11
+          }
+        ]
+      },
+      {
+        "id": 625374,
+        "tournamentId": 46047,
+        "statusId": 3,
+        "position": 2,
+        "player1": {
+          "id": 2321,
+          "firstName": "Alessio",
+          "lastName": "Grimaldi",
+          "gender": true,
+          "photo": "Mi8yMy8yMzIxL2ltYWdlLmpwZw=="
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 2801,
+          "firstName": "Yaroslav",
+          "lastName": "Veremiichuk",
+          "gender": true,
+          "photo": "Mi8yOC8yODAxL2ltYWdlLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "3",
+        "player2Score": "2",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T19:45:00.000Z",
+        "activePlayerId": 2801,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-24 Men Night Rio",
+        "locationId": 19,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 2321,
+          "firstName": "Alessio",
+          "lastName": "Grimaldi",
+          "gender": true,
+          "photo": "Mi8yMy8yMzIxL2ltYWdlLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 625374,
+            "number": 1,
+            "p1Score": 6,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625374,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 2
+          },
+          {
+            "match_id": 625374,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 6
+          },
+          {
+            "match_id": 625374,
+            "number": 4,
+            "p1Score": 10,
+            "p2Score": 12
+          },
+          {
+            "match_id": 625374,
+            "number": 5,
+            "p1Score": 11,
+            "p2Score": 7
+          }
+        ]
+      },
+      {
+        "id": 625375,
+        "tournamentId": 46047,
+        "statusId": 3,
+        "position": 3,
+        "player1": {
+          "id": 2557,
+          "firstName": "Vadim",
+          "lastName": "Burucenco",
+          "gender": true,
+          "photo": "Mi8yNS8yNTU3L2ltYWdlLmpwZw=="
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 2801,
+          "firstName": "Yaroslav",
+          "lastName": "Veremiichuk",
+          "gender": true,
+          "photo": "Mi8yOC8yODAxL2ltYWdlLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "0",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T20:15:00.000Z",
+        "activePlayerId": 2801,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-24 Men Night Rio",
+        "locationId": 19,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 2801,
+          "firstName": "Yaroslav",
+          "lastName": "Veremiichuk",
+          "gender": true,
+          "photo": "Mi8yOC8yODAxL2ltYWdlLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 625375,
+            "number": 1,
+            "p1Score": 7,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625375,
+            "number": 2,
+            "p1Score": 12,
+            "p2Score": 14
+          },
+          {
+            "match_id": 625375,
+            "number": 3,
+            "p1Score": 7,
+            "p2Score": 11
+          }
+        ]
+      },
+      {
+        "id": 625376,
+        "tournamentId": 46047,
+        "statusId": 3,
+        "position": 4,
+        "player1": {
+          "id": 2321,
+          "firstName": "Alessio",
+          "lastName": "Grimaldi",
+          "gender": true,
+          "photo": "Mi8yMy8yMzIxL2ltYWdlLmpwZw=="
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 2270,
+          "firstName": "Alexandr",
+          "lastName": "Bodac",
+          "gender": true,
+          "photo": "Mi8yMi8yMjcwL2ltYWdlLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "3",
+        "player2Score": "2",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T20:45:00.000Z",
+        "activePlayerId": 2270,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-24 Men Night Rio",
+        "locationId": 19,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 2321,
+          "firstName": "Alessio",
+          "lastName": "Grimaldi",
+          "gender": true,
+          "photo": "Mi8yMy8yMzIxL2ltYWdlLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 625376,
+            "number": 1,
+            "p1Score": 10,
+            "p2Score": 12
+          },
+          {
+            "match_id": 625376,
+            "number": 2,
+            "p1Score": 8,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625376,
+            "number": 3,
+            "p1Score": 12,
+            "p2Score": 10
+          },
+          {
+            "match_id": 625376,
+            "number": 4,
+            "p1Score": 13,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625376,
+            "number": 5,
+            "p1Score": 11,
+            "p2Score": 4
+          }
+        ]
+      },
+      {
+        "id": 625377,
+        "tournamentId": 46047,
+        "statusId": 3,
+        "position": 5,
+        "player1": {
+          "id": 2557,
+          "firstName": "Vadim",
+          "lastName": "Burucenco",
+          "gender": true,
+          "photo": "Mi8yNS8yNTU3L2ltYWdlLmpwZw=="
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 2321,
+          "firstName": "Alessio",
+          "lastName": "Grimaldi",
+          "gender": true,
+          "photo": "Mi8yMy8yMzIxL2ltYWdlLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "0",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T21:15:00.000Z",
+        "activePlayerId": 2557,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-24 Men Night Rio",
+        "locationId": 19,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 2321,
+          "firstName": "Alessio",
+          "lastName": "Grimaldi",
+          "gender": true,
+          "photo": "Mi8yMy8yMzIxL2ltYWdlLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 625377,
+            "number": 1,
+            "p1Score": 6,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625377,
+            "number": 2,
+            "p1Score": 6,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625377,
+            "number": 3,
+            "p1Score": 9,
+            "p2Score": 11
+          }
+        ]
+      },
+      {
+        "id": 625378,
+        "tournamentId": 46047,
+        "statusId": 3,
+        "position": 6,
+        "player1": {
+          "id": 2801,
+          "firstName": "Yaroslav",
+          "lastName": "Veremiichuk",
+          "gender": true,
+          "photo": "Mi8yOC8yODAxL2ltYWdlLmpwZw=="
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 2270,
+          "firstName": "Alexandr",
+          "lastName": "Bodac",
+          "gender": true,
+          "photo": "Mi8yMi8yMjcwL2ltYWdlLmpwZw=="
+        },
+        "player2ColorId": 5,
+        "player1Score": "2",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T21:45:00.000Z",
+        "activePlayerId": 2801,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-24 Men Night Rio",
+        "locationId": 19,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 2270,
+          "firstName": "Alexandr",
+          "lastName": "Bodac",
+          "gender": true,
+          "photo": "Mi8yMi8yMjcwL2ltYWdlLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 625378,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 7
+          },
+          {
+            "match_id": 625378,
+            "number": 2,
+            "p1Score": 7,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625378,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 7
+          },
+          {
+            "match_id": 625378,
+            "number": 4,
+            "p1Score": 9,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625378,
+            "number": 5,
+            "p1Score": 8,
+            "p2Score": 11
+          }
+        ]
+      },
+      {
+        "id": 625845,
+        "tournamentId": 46047,
+        "statusId": 3,
+        "position": 7,
+        "player1": {
+          "id": 2801,
+          "firstName": "Yaroslav",
+          "lastName": "Veremiichuk",
+          "gender": true,
+          "photo": "Mi8yOC8yODAxL2ltYWdlLmpwZw=="
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 2557,
+          "firstName": "Vadim",
+          "lastName": "Burucenco",
+          "gender": true,
+          "photo": "Mi8yNS8yNTU3L2ltYWdlLmpwZw=="
+        },
+        "player2ColorId": 5,
+        "player1Score": "3",
+        "player2Score": "2",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T22:25:00.000Z",
+        "activePlayerId": 2557,
+        "reverse": 1,
+        "forPositionId": 3,
+        "tournamentName": "2025-04-24 Men Night Rio",
+        "locationId": 19,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 2801,
+          "firstName": "Yaroslav",
+          "lastName": "Veremiichuk",
+          "gender": true,
+          "photo": "Mi8yOC8yODAxL2ltYWdlLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 625845,
+            "number": 1,
+            "p1Score": 7,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625845,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 3
+          },
+          {
+            "match_id": 625845,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 8
+          },
+          {
+            "match_id": 625845,
+            "number": 4,
+            "p1Score": 8,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625845,
+            "number": 5,
+            "p1Score": 11,
+            "p2Score": 8
+          }
+        ]
+      },
+      {
+        "id": 625846,
+        "tournamentId": 46047,
+        "statusId": 3,
+        "position": 8,
+        "player1": {
+          "id": 2270,
+          "firstName": "Alexandr",
+          "lastName": "Bodac",
+          "gender": true,
+          "photo": "Mi8yMi8yMjcwL2ltYWdlLmpwZw=="
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 2321,
+          "firstName": "Alessio",
+          "lastName": "Grimaldi",
+          "gender": true,
+          "photo": "Mi8yMy8yMzIxL2ltYWdlLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "3",
+        "player2Score": "1",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T22:55:00.000Z",
+        "activePlayerId": 2270,
+        "reverse": 0,
+        "forPositionId": 2,
+        "tournamentName": "2025-04-24 Men Night Rio",
+        "locationId": 19,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 2270,
+          "firstName": "Alexandr",
+          "lastName": "Bodac",
+          "gender": true,
+          "photo": "Mi8yMi8yMjcwL2ltYWdlLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 625846,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 9
+          },
+          {
+            "match_id": 625846,
+            "number": 2,
+            "p1Score": 7,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625846,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 7
+          },
+          {
+            "match_id": 625846,
+            "number": 4,
+            "p1Score": 13,
+            "p2Score": 11
+          }
+        ]
+      }
+    ],
+    "secondCircle": false,
+    "startDate": "2025-04-24T19:15:00.000Z",
+    "statusCode": "finished",
+    "token": "2025-04-24 Men Night Rio",
+    "divisionToken": "Men",
+    "result": {
+      "matches": {
+        "1": {
+          "2557-2270": {
+            "match_id": "625373",
+            "status": "finished",
+            "winner": "2270",
+            "score": {
+              "2270": 3,
+              "2557": 0
+            }
+          },
+          "2270-2557": {
+            "match_id": "625373",
+            "status": "finished",
+            "winner": "2270",
+            "score": {
+              "2270": 3,
+              "2557": 0
+            }
+          },
+          "2321-2801": {
+            "match_id": "625374",
+            "status": "finished",
+            "winner": "2321",
+            "score": {
+              "2321": 3,
+              "2801": 2
+            }
+          },
+          "2801-2321": {
+            "match_id": "625374",
+            "status": "finished",
+            "winner": "2321",
+            "score": {
+              "2321": 3,
+              "2801": 2
+            }
+          },
+          "2557-2801": {
+            "match_id": "625375",
+            "status": "finished",
+            "winner": "2801",
+            "score": {
+              "2557": 0,
+              "2801": 3
+            }
+          },
+          "2801-2557": {
+            "match_id": "625375",
+            "status": "finished",
+            "winner": "2801",
+            "score": {
+              "2557": 0,
+              "2801": 3
+            }
+          },
+          "2321-2270": {
+            "match_id": "625376",
+            "status": "finished",
+            "winner": "2321",
+            "score": {
+              "2270": 2,
+              "2321": 3
+            }
+          },
+          "2270-2321": {
+            "match_id": "625376",
+            "status": "finished",
+            "winner": "2321",
+            "score": {
+              "2270": 2,
+              "2321": 3
+            }
+          },
+          "2557-2321": {
+            "match_id": "625377",
+            "status": "finished",
+            "winner": "2321",
+            "score": {
+              "2321": 3,
+              "2557": 0
+            }
+          },
+          "2321-2557": {
+            "match_id": "625377",
+            "status": "finished",
+            "winner": "2321",
+            "score": {
+              "2321": 3,
+              "2557": 0
+            }
+          },
+          "2801-2270": {
+            "match_id": "625378",
+            "status": "finished",
+            "winner": "2270",
+            "score": {
+              "2270": 3,
+              "2801": 2
+            }
+          },
+          "2270-2801": {
+            "match_id": "625378",
+            "status": "finished",
+            "winner": "2270",
+            "score": {
+              "2270": 3,
+              "2801": 2
+            }
+          }
+        }
+      },
+      "players": {
+        "2270": {
+          "points": 5,
+          "real_points": 7,
+          "position": 2,
+          "real_position": 1,
+          "matches": {
+            "won": 3,
+            "lose": 1,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 4
+          },
+          "sets": {
+            "won": 11,
+            "lose": 6,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 17
+          },
+          "id": 2270,
+          "number": 1,
+          "firstName": "Alexandr",
+          "lastName": "Bodac",
+          "gender": true,
+          "photo": "Mi8yMi8yMjcwL2ltYWdlLmpwZw=="
+        },
+        "2321": {
+          "points": 6,
+          "real_points": 7,
+          "position": 1,
+          "real_position": 2,
+          "matches": {
+            "won": 3,
+            "lose": 1,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 4
+          },
+          "sets": {
+            "won": 10,
+            "lose": 7,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 17
+          },
+          "id": 2321,
+          "number": 2,
+          "firstName": "Alessio",
+          "lastName": "Grimaldi",
+          "gender": true,
+          "photo": "Mi8yMy8yMzIxL2ltYWdlLmpwZw=="
+        },
+        "2557": {
+          "points": 3,
+          "real_points": 4,
+          "position": 4,
+          "real_position": 4,
+          "matches": {
+            "won": 0,
+            "lose": 4,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 4
+          },
+          "sets": {
+            "won": 2,
+            "lose": 12,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 14
+          },
+          "id": 2557,
+          "number": 3,
+          "firstName": "Vadim",
+          "lastName": "Burucenco",
+          "gender": true,
+          "photo": "Mi8yNS8yNTU3L2ltYWdlLmpwZw=="
+        },
+        "2801": {
+          "points": 4,
+          "real_points": 6,
+          "position": 3,
+          "real_position": 3,
+          "matches": {
+            "won": 2,
+            "lose": 2,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 4
+          },
+          "sets": {
+            "won": 10,
+            "lose": 8,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 18
+          },
+          "id": 2801,
+          "number": 4,
+          "firstName": "Yaroslav",
+          "lastName": "Veremiichuk",
+          "gender": true,
+          "photo": "Mi8yOC8yODAxL2ltYWdlLmpwZw=="
+        }
+      },
+      "positions": {
+        "2270": 1,
+        "2321": 2,
+        "2557": 4,
+        "2801": 3
+      }
+    }
+  },
+  {
+    "id": 46050,
+    "code": "sc-location-18-250423143208-4373",
+    "dayPeriodToken": 3,
+    "locationId": 18,
+    "matches": [
+      {
+        "id": 625391,
+        "tournamentId": 46050,
+        "statusId": 3,
+        "position": 1,
+        "player1": {
+          "id": 1774,
+          "firstName": "Hennadii",
+          "lastName": "Paniivan",
+          "gender": true,
+          "photo": "MS8xNy8xNzc0L3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 1751,
+          "firstName": "Victor",
+          "lastName": "Gammer",
+          "gender": true,
+          "photo": "MS8xNy8xNzUxL3Bob3RvLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "1",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T20:00:00.000Z",
+        "activePlayerId": 1774,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-24 Men Night Mexico",
+        "locationId": 18,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 1751,
+          "firstName": "Victor",
+          "lastName": "Gammer",
+          "gender": true,
+          "photo": "MS8xNy8xNzUxL3Bob3RvLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 625391,
+            "number": 1,
+            "p1Score": 9,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625391,
+            "number": 2,
+            "p1Score": 9,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625391,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 4
+          },
+          {
+            "match_id": 625391,
+            "number": 4,
+            "p1Score": 7,
+            "p2Score": 11
+          }
+        ]
+      },
+      {
+        "id": 625392,
+        "tournamentId": 46050,
+        "statusId": 3,
+        "position": 2,
+        "player1": {
+          "id": 1780,
+          "firstName": "Igor",
+          "lastName": "Kovik",
+          "gender": true,
+          "photo": "MS8xNy8xNzgwL3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 1698,
+          "firstName": "Sviatoslav",
+          "lastName": "Panteleev",
+          "gender": true,
+          "photo": "MS8xNi8xNjk4L3Bob3RvLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "3",
+        "player2Score": "1",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T20:30:00.000Z",
+        "activePlayerId": 1698,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-24 Men Night Mexico",
+        "locationId": 18,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 1780,
+          "firstName": "Igor",
+          "lastName": "Kovik",
+          "gender": true,
+          "photo": "MS8xNy8xNzgwL3Bob3RvLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 625392,
+            "number": 1,
+            "p1Score": 6,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625392,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 4
+          },
+          {
+            "match_id": 625392,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 6
+          },
+          {
+            "match_id": 625392,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 7
+          }
+        ]
+      },
+      {
+        "id": 625393,
+        "tournamentId": 46050,
+        "statusId": 3,
+        "position": 3,
+        "player1": {
+          "id": 1774,
+          "firstName": "Hennadii",
+          "lastName": "Paniivan",
+          "gender": true,
+          "photo": "MS8xNy8xNzc0L3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 1698,
+          "firstName": "Sviatoslav",
+          "lastName": "Panteleev",
+          "gender": true,
+          "photo": "MS8xNi8xNjk4L3Bob3RvLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "2",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T21:00:00.000Z",
+        "activePlayerId": 1774,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-24 Men Night Mexico",
+        "locationId": 18,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 1698,
+          "firstName": "Sviatoslav",
+          "lastName": "Panteleev",
+          "gender": true,
+          "photo": "MS8xNi8xNjk4L3Bob3RvLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 625393,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 8
+          },
+          {
+            "match_id": 625393,
+            "number": 2,
+            "p1Score": 5,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625393,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 6
+          },
+          {
+            "match_id": 625393,
+            "number": 4,
+            "p1Score": 7,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625393,
+            "number": 5,
+            "p1Score": 6,
+            "p2Score": 11
+          }
+        ]
+      },
+      {
+        "id": 625394,
+        "tournamentId": 46050,
+        "statusId": 3,
+        "position": 4,
+        "player1": {
+          "id": 1780,
+          "firstName": "Igor",
+          "lastName": "Kovik",
+          "gender": true,
+          "photo": "MS8xNy8xNzgwL3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 1751,
+          "firstName": "Victor",
+          "lastName": "Gammer",
+          "gender": true,
+          "photo": "MS8xNy8xNzUxL3Bob3RvLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "2",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T21:30:00.000Z",
+        "activePlayerId": 1751,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-24 Men Night Mexico",
+        "locationId": 18,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 1751,
+          "firstName": "Victor",
+          "lastName": "Gammer",
+          "gender": true,
+          "photo": "MS8xNy8xNzUxL3Bob3RvLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 625394,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 5
+          },
+          {
+            "match_id": 625394,
+            "number": 2,
+            "p1Score": 5,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625394,
+            "number": 3,
+            "p1Score": 10,
+            "p2Score": 12
+          },
+          {
+            "match_id": 625394,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 9
+          },
+          {
+            "match_id": 625394,
+            "number": 5,
+            "p1Score": 8,
+            "p2Score": 11
+          }
+        ]
+      },
+      {
+        "id": 625395,
+        "tournamentId": 46050,
+        "statusId": 3,
+        "position": 5,
+        "player1": {
+          "id": 1774,
+          "firstName": "Hennadii",
+          "lastName": "Paniivan",
+          "gender": true,
+          "photo": "MS8xNy8xNzc0L3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 1780,
+          "firstName": "Igor",
+          "lastName": "Kovik",
+          "gender": true,
+          "photo": "MS8xNy8xNzgwL3Bob3RvLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "3",
+        "player2Score": "1",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T22:00:00.000Z",
+        "activePlayerId": 1774,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-24 Men Night Mexico",
+        "locationId": 18,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 1774,
+          "firstName": "Hennadii",
+          "lastName": "Paniivan",
+          "gender": true,
+          "photo": "MS8xNy8xNzc0L3Bob3RvLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 625395,
+            "number": 1,
+            "p1Score": 10,
+            "p2Score": 12
+          },
+          {
+            "match_id": 625395,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 5
+          },
+          {
+            "match_id": 625395,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 4
+          },
+          {
+            "match_id": 625395,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 5
+          }
+        ]
+      },
+      {
+        "id": 625396,
+        "tournamentId": 46050,
+        "statusId": 3,
+        "position": 6,
+        "player1": {
+          "id": 1698,
+          "firstName": "Sviatoslav",
+          "lastName": "Panteleev",
+          "gender": true,
+          "photo": "MS8xNi8xNjk4L3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 1751,
+          "firstName": "Victor",
+          "lastName": "Gammer",
+          "gender": true,
+          "photo": "MS8xNy8xNzUxL3Bob3RvLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "3",
+        "player2Score": "2",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T22:30:00.000Z",
+        "activePlayerId": 1698,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-24 Men Night Mexico",
+        "locationId": 18,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 1698,
+          "firstName": "Sviatoslav",
+          "lastName": "Panteleev",
+          "gender": true,
+          "photo": "MS8xNi8xNjk4L3Bob3RvLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 625396,
+            "number": 1,
+            "p1Score": 8,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625396,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 9
+          },
+          {
+            "match_id": 625396,
+            "number": 3,
+            "p1Score": 14,
+            "p2Score": 12
+          },
+          {
+            "match_id": 625396,
+            "number": 4,
+            "p1Score": 7,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625396,
+            "number": 5,
+            "p1Score": 11,
+            "p2Score": 6
+          }
+        ]
+      },
+      {
+        "id": 625847,
+        "tournamentId": 46050,
+        "statusId": 3,
+        "position": 7,
+        "player1": {
+          "id": 1780,
+          "firstName": "Igor",
+          "lastName": "Kovik",
+          "gender": true,
+          "photo": "MS8xNy8xNzgwL3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 1774,
+          "firstName": "Hennadii",
+          "lastName": "Paniivan",
+          "gender": true,
+          "photo": "MS8xNy8xNzc0L3Bob3RvLmpwZw=="
+        },
+        "player2ColorId": 5,
+        "player1Score": "3",
+        "player2Score": "1",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T23:10:00.000Z",
+        "activePlayerId": 1780,
+        "reverse": 1,
+        "forPositionId": 3,
+        "tournamentName": "2025-04-24 Men Night Mexico",
+        "locationId": 18,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 1780,
+          "firstName": "Igor",
+          "lastName": "Kovik",
+          "gender": true,
+          "photo": "MS8xNy8xNzgwL3Bob3RvLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 625847,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 9
+          },
+          {
+            "match_id": 625847,
+            "number": 2,
+            "p1Score": 7,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625847,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 9
+          },
+          {
+            "match_id": 625847,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 8
+          }
+        ]
+      },
+      {
+        "id": 625848,
+        "tournamentId": 46050,
+        "statusId": 3,
+        "position": 8,
+        "player1": {
+          "id": 1751,
+          "firstName": "Victor",
+          "lastName": "Gammer",
+          "gender": true,
+          "photo": "MS8xNy8xNzUxL3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 1698,
+          "firstName": "Sviatoslav",
+          "lastName": "Panteleev",
+          "gender": true,
+          "photo": "MS8xNi8xNjk4L3Bob3RvLmpwZw=="
+        },
+        "player2ColorId": 5,
+        "player1Score": "3",
+        "player2Score": "1",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T23:40:00.000Z",
+        "activePlayerId": 1698,
+        "reverse": 1,
+        "forPositionId": 2,
+        "tournamentName": "2025-04-24 Men Night Mexico",
+        "locationId": 18,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 1751,
+          "firstName": "Victor",
+          "lastName": "Gammer",
+          "gender": true,
+          "photo": "MS8xNy8xNzUxL3Bob3RvLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 625848,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 4
+          },
+          {
+            "match_id": 625848,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 9
+          },
+          {
+            "match_id": 625848,
+            "number": 3,
+            "p1Score": 13,
+            "p2Score": 15
+          },
+          {
+            "match_id": 625848,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 8
+          }
+        ]
+      }
+    ],
+    "secondCircle": false,
+    "startDate": "2025-04-24T20:00:00.000Z",
+    "statusCode": "finished",
+    "token": "2025-04-24 Men Night Mexico",
+    "divisionToken": "Men",
+    "result": {
+      "matches": {
+        "1": {
+          "1774-1751": {
+            "match_id": "625391",
+            "status": "finished",
+            "winner": "1751",
+            "score": {
+              "1751": 3,
+              "1774": 1
+            }
+          },
+          "1751-1774": {
+            "match_id": "625391",
+            "status": "finished",
+            "winner": "1751",
+            "score": {
+              "1751": 3,
+              "1774": 1
+            }
+          },
+          "1780-1698": {
+            "match_id": "625392",
+            "status": "finished",
+            "winner": "1780",
+            "score": {
+              "1698": 1,
+              "1780": 3
+            }
+          },
+          "1698-1780": {
+            "match_id": "625392",
+            "status": "finished",
+            "winner": "1780",
+            "score": {
+              "1698": 1,
+              "1780": 3
+            }
+          },
+          "1774-1698": {
+            "match_id": "625393",
+            "status": "finished",
+            "winner": "1698",
+            "score": {
+              "1698": 3,
+              "1774": 2
+            }
+          },
+          "1698-1774": {
+            "match_id": "625393",
+            "status": "finished",
+            "winner": "1698",
+            "score": {
+              "1698": 3,
+              "1774": 2
+            }
+          },
+          "1780-1751": {
+            "match_id": "625394",
+            "status": "finished",
+            "winner": "1751",
+            "score": {
+              "1751": 3,
+              "1780": 2
+            }
+          },
+          "1751-1780": {
+            "match_id": "625394",
+            "status": "finished",
+            "winner": "1751",
+            "score": {
+              "1751": 3,
+              "1780": 2
+            }
+          },
+          "1774-1780": {
+            "match_id": "625395",
+            "status": "finished",
+            "winner": "1774",
+            "score": {
+              "1774": 3,
+              "1780": 1
+            }
+          },
+          "1780-1774": {
+            "match_id": "625395",
+            "status": "finished",
+            "winner": "1774",
+            "score": {
+              "1774": 3,
+              "1780": 1
+            }
+          },
+          "1698-1751": {
+            "match_id": "625396",
+            "status": "finished",
+            "winner": "1698",
+            "score": {
+              "1698": 3,
+              "1751": 2
+            }
+          },
+          "1751-1698": {
+            "match_id": "625396",
+            "status": "finished",
+            "winner": "1698",
+            "score": {
+              "1698": 3,
+              "1751": 2
+            }
+          }
+        }
+      },
+      "players": {
+        "1698": {
+          "points": 5,
+          "real_points": 6,
+          "position": 1,
+          "real_position": 2,
+          "matches": {
+            "won": 2,
+            "lose": 2,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 4
+          },
+          "sets": {
+            "won": 8,
+            "lose": 10,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 18
+          },
+          "id": 1698,
+          "number": 1,
+          "firstName": "Sviatoslav",
+          "lastName": "Panteleev",
+          "gender": true,
+          "photo": "MS8xNi8xNjk4L3Bob3RvLmpwZw=="
+        },
+        "1751": {
+          "points": 5,
+          "real_points": 7,
+          "position": 2,
+          "real_position": 1,
+          "matches": {
+            "won": 3,
+            "lose": 1,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 4
+          },
+          "sets": {
+            "won": 11,
+            "lose": 7,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 18
+          },
+          "id": 1751,
+          "number": 2,
+          "firstName": "Victor",
+          "lastName": "Gammer",
+          "gender": true,
+          "photo": "MS8xNy8xNzUxL3Bob3RvLmpwZw=="
+        },
+        "1774": {
+          "points": 4,
+          "real_points": 5,
+          "position": 3,
+          "real_position": 4,
+          "matches": {
+            "won": 1,
+            "lose": 3,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 4
+          },
+          "sets": {
+            "won": 7,
+            "lose": 10,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 17
+          },
+          "id": 1774,
+          "number": 3,
+          "firstName": "Hennadii",
+          "lastName": "Paniivan",
+          "gender": true,
+          "photo": "MS8xNy8xNzc0L3Bob3RvLmpwZw=="
+        },
+        "1780": {
+          "points": 4,
+          "real_points": 6,
+          "position": 4,
+          "real_position": 3,
+          "matches": {
+            "won": 2,
+            "lose": 2,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 4
+          },
+          "sets": {
+            "won": 9,
+            "lose": 8,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 17
+          },
+          "id": 1780,
+          "number": 4,
+          "firstName": "Igor",
+          "lastName": "Kovik",
+          "gender": true,
+          "photo": "MS8xNy8xNzgwL3Bob3RvLmpwZw=="
+        }
+      },
+      "positions": {
+        "1698": 2,
+        "1751": 1,
+        "1774": 4,
+        "1780": 3
+      }
+    }
+  },
+  {
+    "id": 46052,
+    "code": "sc-location-8-250423143637-3945",
+    "dayPeriodToken": 3,
+    "locationId": 8,
+    "matches": [
+      {
+        "id": 625413,
+        "tournamentId": 46052,
+        "statusId": 3,
+        "position": 1,
+        "player1": {
+          "id": 1066,
+          "firstName": "Andrii",
+          "lastName": "Homylko",
+          "gender": true,
+          "photo": "MS8xMC8xMDY2L3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 754,
+          "firstName": "Yaroslav",
+          "lastName": "Stepanchuk",
+          "gender": true,
+          "photo": "Ny83NS83NTQvcGhvdG8uanBn"
+        },
+        "player2ColorId": 2,
+        "player1Score": "2",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T21:05:00.000Z",
+        "activePlayerId": 1066,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-25 Men Night Tokyo",
+        "locationId": 8,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 754,
+          "firstName": "Yaroslav",
+          "lastName": "Stepanchuk",
+          "gender": true,
+          "photo": "Ny83NS83NTQvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 625413,
+            "number": 1,
+            "p1Score": 2,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625413,
+            "number": 2,
+            "p1Score": 9,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625413,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 9
+          },
+          {
+            "match_id": 625413,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 8
+          },
+          {
+            "match_id": 625413,
+            "number": 5,
+            "p1Score": 7,
+            "p2Score": 11
+          }
+        ]
+      },
+      {
+        "id": 625414,
+        "tournamentId": 46052,
+        "statusId": 3,
+        "position": 2,
+        "player1": {
+          "id": 618,
+          "firstName": "Oleksandr",
+          "lastName": "Melashenko",
+          "gender": true,
+          "photo": "Ni82MS82MTgvcGhvdG8uanBn"
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 2716,
+          "firstName": "Viktor",
+          "lastName": "Sharpai",
+          "gender": true,
+          "photo": "Mi8yNy8yNzE2L2ltYWdlLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "3",
+        "player2Score": "2",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T21:35:00.000Z",
+        "activePlayerId": 618,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-25 Men Night Tokyo",
+        "locationId": 8,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 618,
+          "firstName": "Oleksandr",
+          "lastName": "Melashenko",
+          "gender": true,
+          "photo": "Ni82MS82MTgvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 625414,
+            "number": 1,
+            "p1Score": 7,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625414,
+            "number": 2,
+            "p1Score": 12,
+            "p2Score": 10
+          },
+          {
+            "match_id": 625414,
+            "number": 3,
+            "p1Score": 6,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625414,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 4
+          },
+          {
+            "match_id": 625414,
+            "number": 5,
+            "p1Score": 11,
+            "p2Score": 7
+          }
+        ]
+      },
+      {
+        "id": 625415,
+        "tournamentId": 46052,
+        "statusId": 3,
+        "position": 3,
+        "player1": {
+          "id": 777,
+          "firstName": "Hryhorii",
+          "lastName": "Kulishov",
+          "gender": true,
+          "photo": "Ny83Ny83NzcvcGhvdG8uanBn"
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 598,
+          "firstName": "Dmytro",
+          "lastName": "Kim",
+          "gender": true,
+          "photo": "NS81OS81OTgvcGhvdG8uanBn"
+        },
+        "player2ColorId": 2,
+        "player1Score": "0",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T22:05:00.000Z",
+        "activePlayerId": 777,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-25 Men Night Tokyo",
+        "locationId": 8,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 598,
+          "firstName": "Dmytro",
+          "lastName": "Kim",
+          "gender": true,
+          "photo": "NS81OS81OTgvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 625415,
+            "number": 1,
+            "p1Score": 7,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625415,
+            "number": 2,
+            "p1Score": 14,
+            "p2Score": 16
+          },
+          {
+            "match_id": 625415,
+            "number": 3,
+            "p1Score": 3,
+            "p2Score": 11
+          }
+        ]
+      },
+      {
+        "id": 625416,
+        "tournamentId": 46052,
+        "statusId": 3,
+        "position": 4,
+        "player1": {
+          "id": 1066,
+          "firstName": "Andrii",
+          "lastName": "Homylko",
+          "gender": true,
+          "photo": "MS8xMC8xMDY2L3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 2716,
+          "firstName": "Viktor",
+          "lastName": "Sharpai",
+          "gender": true,
+          "photo": "Mi8yNy8yNzE2L2ltYWdlLmpwZw=="
+        },
+        "player2ColorId": 5,
+        "player1Score": "3",
+        "player2Score": "0",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T22:35:00.000Z",
+        "activePlayerId": 2716,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-25 Men Night Tokyo",
+        "locationId": 8,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 1066,
+          "firstName": "Andrii",
+          "lastName": "Homylko",
+          "gender": true,
+          "photo": "MS8xMC8xMDY2L3Bob3RvLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 625416,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 8
+          },
+          {
+            "match_id": 625416,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 9
+          },
+          {
+            "match_id": 625416,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 2
+          }
+        ]
+      },
+      {
+        "id": 625417,
+        "tournamentId": 46052,
+        "statusId": 3,
+        "position": 5,
+        "player1": {
+          "id": 598,
+          "firstName": "Dmytro",
+          "lastName": "Kim",
+          "gender": true,
+          "photo": "NS81OS81OTgvcGhvdG8uanBn"
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 754,
+          "firstName": "Yaroslav",
+          "lastName": "Stepanchuk",
+          "gender": true,
+          "photo": "Ny83NS83NTQvcGhvdG8uanBn"
+        },
+        "player2ColorId": 2,
+        "player1Score": "3",
+        "player2Score": "2",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T23:05:00.000Z",
+        "activePlayerId": 598,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-25 Men Night Tokyo",
+        "locationId": 8,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 598,
+          "firstName": "Dmytro",
+          "lastName": "Kim",
+          "gender": true,
+          "photo": "NS81OS81OTgvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 625417,
+            "number": 1,
+            "p1Score": 9,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625417,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 6
+          },
+          {
+            "match_id": 625417,
+            "number": 3,
+            "p1Score": 9,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625417,
+            "number": 4,
+            "p1Score": 12,
+            "p2Score": 10
+          },
+          {
+            "match_id": 625417,
+            "number": 5,
+            "p1Score": 11,
+            "p2Score": 9
+          }
+        ]
+      },
+      {
+        "id": 625418,
+        "tournamentId": 46052,
+        "statusId": 3,
+        "position": 6,
+        "player1": {
+          "id": 618,
+          "firstName": "Oleksandr",
+          "lastName": "Melashenko",
+          "gender": true,
+          "photo": "Ni82MS82MTgvcGhvdG8uanBn"
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 777,
+          "firstName": "Hryhorii",
+          "lastName": "Kulishov",
+          "gender": true,
+          "photo": "Ny83Ny83NzcvcGhvdG8uanBn"
+        },
+        "player2ColorId": 5,
+        "player1Score": "3",
+        "player2Score": "2",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T23:35:00.000Z",
+        "activePlayerId": 777,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-25 Men Night Tokyo",
+        "locationId": 8,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 618,
+          "firstName": "Oleksandr",
+          "lastName": "Melashenko",
+          "gender": true,
+          "photo": "Ni82MS82MTgvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 625418,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 5
+          },
+          {
+            "match_id": 625418,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 9
+          },
+          {
+            "match_id": 625418,
+            "number": 3,
+            "p1Score": 8,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625418,
+            "number": 4,
+            "p1Score": 1,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625418,
+            "number": 5,
+            "p1Score": 11,
+            "p2Score": 8
+          }
+        ]
+      },
+      {
+        "id": 625419,
+        "tournamentId": 46052,
+        "statusId": 3,
+        "position": 7,
+        "player1": {
+          "id": 1066,
+          "firstName": "Andrii",
+          "lastName": "Homylko",
+          "gender": true,
+          "photo": "MS8xMC8xMDY2L3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 598,
+          "firstName": "Dmytro",
+          "lastName": "Kim",
+          "gender": true,
+          "photo": "NS81OS81OTgvcGhvdG8uanBn"
+        },
+        "player2ColorId": 5,
+        "player1Score": "3",
+        "player2Score": "1",
+        "technicalResult": 0,
+        "startDate": "2025-04-25T00:05:00.000Z",
+        "activePlayerId": 598,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-25 Men Night Tokyo",
+        "locationId": 8,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 1066,
+          "firstName": "Andrii",
+          "lastName": "Homylko",
+          "gender": true,
+          "photo": "MS8xMC8xMDY2L3Bob3RvLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 625419,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 3
+          },
+          {
+            "match_id": 625419,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 13
+          },
+          {
+            "match_id": 625419,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 9
+          },
+          {
+            "match_id": 625419,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 8
+          }
+        ]
+      },
+      {
+        "id": 625420,
+        "tournamentId": 46052,
+        "statusId": 3,
+        "position": 8,
+        "player1": {
+          "id": 777,
+          "firstName": "Hryhorii",
+          "lastName": "Kulishov",
+          "gender": true,
+          "photo": "Ny83Ny83NzcvcGhvdG8uanBn"
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 2716,
+          "firstName": "Viktor",
+          "lastName": "Sharpai",
+          "gender": true,
+          "photo": "Mi8yNy8yNzE2L2ltYWdlLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "0",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-04-25T00:35:00.000Z",
+        "activePlayerId": 777,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-25 Men Night Tokyo",
+        "locationId": 8,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 2716,
+          "firstName": "Viktor",
+          "lastName": "Sharpai",
+          "gender": true,
+          "photo": "Mi8yNy8yNzE2L2ltYWdlLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 625420,
+            "number": 1,
+            "p1Score": 3,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625420,
+            "number": 2,
+            "p1Score": 13,
+            "p2Score": 15
+          },
+          {
+            "match_id": 625420,
+            "number": 3,
+            "p1Score": 10,
+            "p2Score": 12
+          }
+        ]
+      },
+      {
+        "id": 625421,
+        "tournamentId": 46052,
+        "statusId": 3,
+        "position": 9,
+        "player1": {
+          "id": 618,
+          "firstName": "Oleksandr",
+          "lastName": "Melashenko",
+          "gender": true,
+          "photo": "Ni82MS82MTgvcGhvdG8uanBn"
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 754,
+          "firstName": "Yaroslav",
+          "lastName": "Stepanchuk",
+          "gender": true,
+          "photo": "Ny83NS83NTQvcGhvdG8uanBn"
+        },
+        "player2ColorId": 5,
+        "player1Score": "0",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-04-25T01:05:00.000Z",
+        "activePlayerId": 754,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-25 Men Night Tokyo",
+        "locationId": 8,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 754,
+          "firstName": "Yaroslav",
+          "lastName": "Stepanchuk",
+          "gender": true,
+          "photo": "Ny83NS83NTQvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 625421,
+            "number": 1,
+            "p1Score": 7,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625421,
+            "number": 2,
+            "p1Score": 13,
+            "p2Score": 15
+          },
+          {
+            "match_id": 625421,
+            "number": 3,
+            "p1Score": 3,
+            "p2Score": 11
+          }
+        ]
+      },
+      {
+        "id": 625422,
+        "tournamentId": 46052,
+        "statusId": 3,
+        "position": 10,
+        "player1": {
+          "id": 1066,
+          "firstName": "Andrii",
+          "lastName": "Homylko",
+          "gender": true,
+          "photo": "MS8xMC8xMDY2L3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 777,
+          "firstName": "Hryhorii",
+          "lastName": "Kulishov",
+          "gender": true,
+          "photo": "Ny83Ny83NzcvcGhvdG8uanBn"
+        },
+        "player2ColorId": 5,
+        "player1Score": "0",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-04-25T01:35:00.000Z",
+        "activePlayerId": 777,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-25 Men Night Tokyo",
+        "locationId": 8,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 777,
+          "firstName": "Hryhorii",
+          "lastName": "Kulishov",
+          "gender": true,
+          "photo": "Ny83Ny83NzcvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 625422,
+            "number": 1,
+            "p1Score": 9,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625422,
+            "number": 2,
+            "p1Score": 7,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625422,
+            "number": 3,
+            "p1Score": 10,
+            "p2Score": 12
+          }
+        ]
+      },
+      {
+        "id": 625423,
+        "tournamentId": 46052,
+        "statusId": 3,
+        "position": 11,
+        "player1": {
+          "id": 618,
+          "firstName": "Oleksandr",
+          "lastName": "Melashenko",
+          "gender": true,
+          "photo": "Ni82MS82MTgvcGhvdG8uanBn"
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 598,
+          "firstName": "Dmytro",
+          "lastName": "Kim",
+          "gender": true,
+          "photo": "NS81OS81OTgvcGhvdG8uanBn"
+        },
+        "player2ColorId": 5,
+        "player1Score": "3",
+        "player2Score": "0",
+        "technicalResult": 0,
+        "startDate": "2025-04-25T02:05:00.000Z",
+        "activePlayerId": 598,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-25 Men Night Tokyo",
+        "locationId": 8,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 618,
+          "firstName": "Oleksandr",
+          "lastName": "Melashenko",
+          "gender": true,
+          "photo": "Ni82MS82MTgvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 625423,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 9
+          },
+          {
+            "match_id": 625423,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 8
+          },
+          {
+            "match_id": 625423,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 7
+          }
+        ]
+      },
+      {
+        "id": 625424,
+        "tournamentId": 46052,
+        "statusId": 3,
+        "position": 12,
+        "player1": {
+          "id": 2716,
+          "firstName": "Viktor",
+          "lastName": "Sharpai",
+          "gender": true,
+          "photo": "Mi8yNy8yNzE2L2ltYWdlLmpwZw=="
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 754,
+          "firstName": "Yaroslav",
+          "lastName": "Stepanchuk",
+          "gender": true,
+          "photo": "Ny83NS83NTQvcGhvdG8uanBn"
+        },
+        "player2ColorId": 5,
+        "player1Score": "1",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-04-25T02:35:00.000Z",
+        "activePlayerId": 754,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-25 Men Night Tokyo",
+        "locationId": 8,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 754,
+          "firstName": "Yaroslav",
+          "lastName": "Stepanchuk",
+          "gender": true,
+          "photo": "Ny83NS83NTQvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 625424,
+            "number": 1,
+            "p1Score": 17,
+            "p2Score": 15
+          },
+          {
+            "match_id": 625424,
+            "number": 2,
+            "p1Score": 7,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625424,
+            "number": 3,
+            "p1Score": 5,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625424,
+            "number": 4,
+            "p1Score": 10,
+            "p2Score": 12
+          }
+        ]
+      },
+      {
+        "id": 625425,
+        "tournamentId": 46052,
+        "statusId": 3,
+        "position": 13,
+        "player1": {
+          "id": 1066,
+          "firstName": "Andrii",
+          "lastName": "Homylko",
+          "gender": true,
+          "photo": "MS8xMC8xMDY2L3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 618,
+          "firstName": "Oleksandr",
+          "lastName": "Melashenko",
+          "gender": true,
+          "photo": "Ni82MS82MTgvcGhvdG8uanBn"
+        },
+        "player2ColorId": 2,
+        "player1Score": "3",
+        "player2Score": "1",
+        "technicalResult": 0,
+        "startDate": "2025-04-25T03:05:00.000Z",
+        "activePlayerId": 1066,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-25 Men Night Tokyo",
+        "locationId": 8,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 1066,
+          "firstName": "Andrii",
+          "lastName": "Homylko",
+          "gender": true,
+          "photo": "MS8xMC8xMDY2L3Bob3RvLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 625425,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 8
+          },
+          {
+            "match_id": 625425,
+            "number": 2,
+            "p1Score": 20,
+            "p2Score": 22
+          },
+          {
+            "match_id": 625425,
+            "number": 3,
+            "p1Score": 12,
+            "p2Score": 10
+          },
+          {
+            "match_id": 625425,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 8
+          }
+        ]
+      },
+      {
+        "id": 625426,
+        "tournamentId": 46052,
+        "statusId": 3,
+        "position": 14,
+        "player1": {
+          "id": 777,
+          "firstName": "Hryhorii",
+          "lastName": "Kulishov",
+          "gender": true,
+          "photo": "Ny83Ny83NzcvcGhvdG8uanBn"
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 754,
+          "firstName": "Yaroslav",
+          "lastName": "Stepanchuk",
+          "gender": true,
+          "photo": "Ny83NS83NTQvcGhvdG8uanBn"
+        },
+        "player2ColorId": 2,
+        "player1Score": "3",
+        "player2Score": "1",
+        "technicalResult": 0,
+        "startDate": "2025-04-25T03:35:00.000Z",
+        "activePlayerId": 777,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-25 Men Night Tokyo",
+        "locationId": 8,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 777,
+          "firstName": "Hryhorii",
+          "lastName": "Kulishov",
+          "gender": true,
+          "photo": "Ny83Ny83NzcvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 625426,
+            "number": 1,
+            "p1Score": 8,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625426,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 7
+          },
+          {
+            "match_id": 625426,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 9
+          },
+          {
+            "match_id": 625426,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 5
+          }
+        ]
+      },
+      {
+        "id": 625427,
+        "tournamentId": 46052,
+        "statusId": 3,
+        "position": 15,
+        "player1": {
+          "id": 598,
+          "firstName": "Dmytro",
+          "lastName": "Kim",
+          "gender": true,
+          "photo": "NS81OS81OTgvcGhvdG8uanBn"
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 2716,
+          "firstName": "Viktor",
+          "lastName": "Sharpai",
+          "gender": true,
+          "photo": "Mi8yNy8yNzE2L2ltYWdlLmpwZw=="
+        },
+        "player2ColorId": 5,
+        "player1Score": "1",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-04-25T04:05:00.000Z",
+        "activePlayerId": 2716,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-25 Men Night Tokyo",
+        "locationId": 8,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 2716,
+          "firstName": "Viktor",
+          "lastName": "Sharpai",
+          "gender": true,
+          "photo": "Mi8yNy8yNzE2L2ltYWdlLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 625427,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 7
+          },
+          {
+            "match_id": 625427,
+            "number": 2,
+            "p1Score": 9,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625427,
+            "number": 3,
+            "p1Score": 18,
+            "p2Score": 20
+          },
+          {
+            "match_id": 625427,
+            "number": 4,
+            "p1Score": 9,
+            "p2Score": 11
+          }
+        ]
+      }
+    ],
+    "secondCircle": false,
+    "startDate": "2025-04-24T21:05:00.000Z",
+    "statusCode": "finished",
+    "token": "2025-04-25 Men Night Tokyo",
+    "divisionToken": "Men",
+    "result": {
+      "matches": {
+        "1": {
+          "1066-754": {
+            "match_id": "625413",
+            "status": "finished",
+            "winner": "754",
+            "score": {
+              "754": 3,
+              "1066": 2
+            }
+          },
+          "754-1066": {
+            "match_id": "625413",
+            "status": "finished",
+            "winner": "754",
+            "score": {
+              "754": 3,
+              "1066": 2
+            }
+          },
+          "618-2716": {
+            "match_id": "625414",
+            "status": "finished",
+            "winner": "618",
+            "score": {
+              "618": 3,
+              "2716": 2
+            }
+          },
+          "2716-618": {
+            "match_id": "625414",
+            "status": "finished",
+            "winner": "618",
+            "score": {
+              "618": 3,
+              "2716": 2
+            }
+          },
+          "777-598": {
+            "match_id": "625415",
+            "status": "finished",
+            "winner": "598",
+            "score": {
+              "598": 3,
+              "777": 0
+            }
+          },
+          "598-777": {
+            "match_id": "625415",
+            "status": "finished",
+            "winner": "598",
+            "score": {
+              "598": 3,
+              "777": 0
+            }
+          },
+          "1066-2716": {
+            "match_id": "625416",
+            "status": "finished",
+            "winner": "1066",
+            "score": {
+              "1066": 3,
+              "2716": 0
+            }
+          },
+          "2716-1066": {
+            "match_id": "625416",
+            "status": "finished",
+            "winner": "1066",
+            "score": {
+              "1066": 3,
+              "2716": 0
+            }
+          },
+          "598-754": {
+            "match_id": "625417",
+            "status": "finished",
+            "winner": "598",
+            "score": {
+              "598": 3,
+              "754": 2
+            }
+          },
+          "754-598": {
+            "match_id": "625417",
+            "status": "finished",
+            "winner": "598",
+            "score": {
+              "598": 3,
+              "754": 2
+            }
+          },
+          "618-777": {
+            "match_id": "625418",
+            "status": "finished",
+            "winner": "618",
+            "score": {
+              "618": 3,
+              "777": 2
+            }
+          },
+          "777-618": {
+            "match_id": "625418",
+            "status": "finished",
+            "winner": "618",
+            "score": {
+              "618": 3,
+              "777": 2
+            }
+          },
+          "1066-598": {
+            "match_id": "625419",
+            "status": "finished",
+            "winner": "1066",
+            "score": {
+              "598": 1,
+              "1066": 3
+            }
+          },
+          "598-1066": {
+            "match_id": "625419",
+            "status": "finished",
+            "winner": "1066",
+            "score": {
+              "598": 1,
+              "1066": 3
+            }
+          },
+          "777-2716": {
+            "match_id": "625420",
+            "status": "finished",
+            "winner": "2716",
+            "score": {
+              "777": 0,
+              "2716": 3
+            }
+          },
+          "2716-777": {
+            "match_id": "625420",
+            "status": "finished",
+            "winner": "2716",
+            "score": {
+              "777": 0,
+              "2716": 3
+            }
+          },
+          "618-754": {
+            "match_id": "625421",
+            "status": "finished",
+            "winner": "754",
+            "score": {
+              "618": 0,
+              "754": 3
+            }
+          },
+          "754-618": {
+            "match_id": "625421",
+            "status": "finished",
+            "winner": "754",
+            "score": {
+              "618": 0,
+              "754": 3
+            }
+          },
+          "1066-777": {
+            "match_id": "625422",
+            "status": "finished",
+            "winner": "777",
+            "score": {
+              "777": 3,
+              "1066": 0
+            }
+          },
+          "777-1066": {
+            "match_id": "625422",
+            "status": "finished",
+            "winner": "777",
+            "score": {
+              "777": 3,
+              "1066": 0
+            }
+          },
+          "618-598": {
+            "match_id": "625423",
+            "status": "finished",
+            "winner": "618",
+            "score": {
+              "598": 0,
+              "618": 3
+            }
+          },
+          "598-618": {
+            "match_id": "625423",
+            "status": "finished",
+            "winner": "618",
+            "score": {
+              "598": 0,
+              "618": 3
+            }
+          },
+          "2716-754": {
+            "match_id": "625424",
+            "status": "finished",
+            "winner": "754",
+            "score": {
+              "754": 3,
+              "2716": 1
+            }
+          },
+          "754-2716": {
+            "match_id": "625424",
+            "status": "finished",
+            "winner": "754",
+            "score": {
+              "754": 3,
+              "2716": 1
+            }
+          },
+          "1066-618": {
+            "match_id": "625425",
+            "status": "finished",
+            "winner": "1066",
+            "score": {
+              "618": 1,
+              "1066": 3
+            }
+          },
+          "618-1066": {
+            "match_id": "625425",
+            "status": "finished",
+            "winner": "1066",
+            "score": {
+              "618": 1,
+              "1066": 3
+            }
+          },
+          "777-754": {
+            "match_id": "625426",
+            "status": "finished",
+            "winner": "777",
+            "score": {
+              "754": 1,
+              "777": 3
+            }
+          },
+          "754-777": {
+            "match_id": "625426",
+            "status": "finished",
+            "winner": "777",
+            "score": {
+              "754": 1,
+              "777": 3
+            }
+          },
+          "598-2716": {
+            "match_id": "625427",
+            "status": "finished",
+            "winner": "2716",
+            "score": {
+              "598": 1,
+              "2716": 3
+            }
+          },
+          "2716-598": {
+            "match_id": "625427",
+            "status": "finished",
+            "winner": "2716",
+            "score": {
+              "598": 1,
+              "2716": 3
+            }
+          }
+        }
+      },
+      "players": {
+        "598": {
+          "points": 7,
+          "real_points": 7,
+          "position": 5,
+          "real_position": 5,
+          "matches": {
+            "won": 2,
+            "lose": 3,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 5
+          },
+          "sets": {
+            "won": 8,
+            "lose": 11,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 19
+          },
+          "id": 598,
+          "number": 1,
+          "firstName": "Dmytro",
+          "lastName": "Kim",
+          "gender": true,
+          "photo": "NS81OS81OTgvcGhvdG8uanBn"
+        },
+        "618": {
+          "points": 8,
+          "real_points": 8,
+          "position": 3,
+          "real_position": 3,
+          "matches": {
+            "won": 3,
+            "lose": 2,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 5
+          },
+          "sets": {
+            "won": 10,
+            "lose": 10,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 20
+          },
+          "id": 618,
+          "number": 2,
+          "firstName": "Oleksandr",
+          "lastName": "Melashenko",
+          "gender": true,
+          "photo": "Ni82MS82MTgvcGhvdG8uanBn"
+        },
+        "754": {
+          "points": 8,
+          "real_points": 8,
+          "position": 1,
+          "real_position": 1,
+          "matches": {
+            "won": 3,
+            "lose": 2,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 5
+          },
+          "sets": {
+            "won": 12,
+            "lose": 9,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 21
+          },
+          "id": 754,
+          "number": 3,
+          "firstName": "Yaroslav",
+          "lastName": "Stepanchuk",
+          "gender": true,
+          "photo": "Ny83NS83NTQvcGhvdG8uanBn"
+        },
+        "777": {
+          "points": 7,
+          "real_points": 7,
+          "position": 6,
+          "real_position": 6,
+          "matches": {
+            "won": 2,
+            "lose": 3,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 5
+          },
+          "sets": {
+            "won": 8,
+            "lose": 10,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 18
+          },
+          "id": 777,
+          "number": 4,
+          "firstName": "Hryhorii",
+          "lastName": "Kulishov",
+          "gender": true,
+          "photo": "Ny83Ny83NzcvcGhvdG8uanBn"
+        },
+        "1066": {
+          "points": 8,
+          "real_points": 8,
+          "position": 2,
+          "real_position": 2,
+          "matches": {
+            "won": 3,
+            "lose": 2,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 5
+          },
+          "sets": {
+            "won": 11,
+            "lose": 8,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 19
+          },
+          "id": 1066,
+          "number": 5,
+          "firstName": "Andrii",
+          "lastName": "Homylko",
+          "gender": true,
+          "photo": "MS8xMC8xMDY2L3Bob3RvLmpwZw=="
+        },
+        "2716": {
+          "points": 7,
+          "real_points": 7,
+          "position": 4,
+          "real_position": 4,
+          "matches": {
+            "won": 2,
+            "lose": 3,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 5
+          },
+          "sets": {
+            "won": 9,
+            "lose": 10,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 19
+          },
+          "id": 2716,
+          "number": 6,
+          "firstName": "Viktor",
+          "lastName": "Sharpai",
+          "gender": true,
+          "photo": "Mi8yNy8yNzE2L2ltYWdlLmpwZw=="
+        }
+      },
+      "positions": {
+        "598": 5,
+        "618": 3,
+        "754": 1,
+        "777": 6,
+        "1066": 2,
+        "2716": 4
+      }
+    }
+  },
+  {
+    "id": 46053,
+    "code": "sc-location-7-250423143637-4418",
+    "dayPeriodToken": 3,
+    "locationId": 7,
+    "matches": [
+      {
+        "id": 625428,
+        "tournamentId": 46053,
+        "statusId": 3,
+        "position": 1,
+        "player1": {
+          "id": 1894,
+          "firstName": "Vitalii",
+          "lastName": "Khamurda",
+          "gender": true,
+          "photo": "MS8xOC8xODk0L3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 641,
+          "firstName": "Oleksandr",
+          "lastName": "Naida",
+          "gender": true,
+          "photo": "Ni82NC82NDEvaW1hZ2UuanBn"
+        },
+        "player2ColorId": 5,
+        "player1Score": "1",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T21:25:00.000Z",
+        "activePlayerId": 641,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-25 Men Night Seoul",
+        "locationId": 7,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 641,
+          "firstName": "Oleksandr",
+          "lastName": "Naida",
+          "gender": true,
+          "photo": "Ni82NC82NDEvaW1hZ2UuanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 625428,
+            "number": 1,
+            "p1Score": 9,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625428,
+            "number": 2,
+            "p1Score": 9,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625428,
+            "number": 3,
+            "p1Score": 13,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625428,
+            "number": 4,
+            "p1Score": 3,
+            "p2Score": 11
+          }
+        ]
+      },
+      {
+        "id": 625429,
+        "tournamentId": 46053,
+        "statusId": 3,
+        "position": 2,
+        "player1": {
+          "id": 666,
+          "firstName": "Dmytro",
+          "lastName": "Derevynskyi",
+          "gender": true,
+          "photo": "Ni82Ni82NjYvcGhvdG8uanBn"
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 272,
+          "firstName": "Oleksii",
+          "lastName": "Krutko",
+          "gender": true,
+          "photo": "Mi8yNy8yNzIvcGhvdG8uanBn"
+        },
+        "player2ColorId": 2,
+        "player1Score": "1",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T21:55:00.000Z",
+        "activePlayerId": 666,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-25 Men Night Seoul",
+        "locationId": 7,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 272,
+          "firstName": "Oleksii",
+          "lastName": "Krutko",
+          "gender": true,
+          "photo": "Mi8yNy8yNzIvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 625429,
+            "number": 1,
+            "p1Score": 5,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625429,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 4
+          },
+          {
+            "match_id": 625429,
+            "number": 3,
+            "p1Score": 9,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625429,
+            "number": 4,
+            "p1Score": 10,
+            "p2Score": 12
+          }
+        ]
+      },
+      {
+        "id": 625430,
+        "tournamentId": 46053,
+        "statusId": 3,
+        "position": 3,
+        "player1": {
+          "id": 621,
+          "firstName": "Roman",
+          "lastName": "Hnoievoi",
+          "gender": true,
+          "photo": "Ni82Mi82MjEvcGhvdG8uanBn"
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 775,
+          "firstName": "Dmytro",
+          "lastName": "Rehotun",
+          "gender": true,
+          "photo": "Ny83Ny83NzUvcGhvdG8uanBn"
+        },
+        "player2ColorId": 2,
+        "player1Score": "0",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T22:25:00.000Z",
+        "activePlayerId": 621,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-25 Men Night Seoul",
+        "locationId": 7,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 775,
+          "firstName": "Dmytro",
+          "lastName": "Rehotun",
+          "gender": true,
+          "photo": "Ny83Ny83NzUvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 625430,
+            "number": 1,
+            "p1Score": 8,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625430,
+            "number": 2,
+            "p1Score": 10,
+            "p2Score": 12
+          },
+          {
+            "match_id": 625430,
+            "number": 3,
+            "p1Score": 7,
+            "p2Score": 11
+          }
+        ]
+      },
+      {
+        "id": 625431,
+        "tournamentId": 46053,
+        "statusId": 3,
+        "position": 4,
+        "player1": {
+          "id": 1894,
+          "firstName": "Vitalii",
+          "lastName": "Khamurda",
+          "gender": true,
+          "photo": "MS8xOC8xODk0L3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 272,
+          "firstName": "Oleksii",
+          "lastName": "Krutko",
+          "gender": true,
+          "photo": "Mi8yNy8yNzIvcGhvdG8uanBn"
+        },
+        "player2ColorId": 5,
+        "player1Score": "3",
+        "player2Score": "1",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T22:55:00.000Z",
+        "activePlayerId": 272,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-25 Men Night Seoul",
+        "locationId": 7,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 1894,
+          "firstName": "Vitalii",
+          "lastName": "Khamurda",
+          "gender": true,
+          "photo": "MS8xOC8xODk0L3Bob3RvLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 625431,
+            "number": 1,
+            "p1Score": 7,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625431,
+            "number": 2,
+            "p1Score": 12,
+            "p2Score": 10
+          },
+          {
+            "match_id": 625431,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 7
+          },
+          {
+            "match_id": 625431,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 7
+          }
+        ]
+      },
+      {
+        "id": 625432,
+        "tournamentId": 46053,
+        "statusId": 3,
+        "position": 5,
+        "player1": {
+          "id": 775,
+          "firstName": "Dmytro",
+          "lastName": "Rehotun",
+          "gender": true,
+          "photo": "Ny83Ny83NzUvcGhvdG8uanBn"
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 641,
+          "firstName": "Oleksandr",
+          "lastName": "Naida",
+          "gender": true,
+          "photo": "Ni82NC82NDEvaW1hZ2UuanBn"
+        },
+        "player2ColorId": 5,
+        "player1Score": "3",
+        "player2Score": "0",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T23:25:00.000Z",
+        "activePlayerId": 641,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-25 Men Night Seoul",
+        "locationId": 7,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 775,
+          "firstName": "Dmytro",
+          "lastName": "Rehotun",
+          "gender": true,
+          "photo": "Ny83Ny83NzUvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 625432,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 5
+          },
+          {
+            "match_id": 625432,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 7
+          },
+          {
+            "match_id": 625432,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 5
+          }
+        ]
+      },
+      {
+        "id": 625433,
+        "tournamentId": 46053,
+        "statusId": 3,
+        "position": 6,
+        "player1": {
+          "id": 666,
+          "firstName": "Dmytro",
+          "lastName": "Derevynskyi",
+          "gender": true,
+          "photo": "Ni82Ni82NjYvcGhvdG8uanBn"
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 621,
+          "firstName": "Roman",
+          "lastName": "Hnoievoi",
+          "gender": true,
+          "photo": "Ni82Mi82MjEvcGhvdG8uanBn"
+        },
+        "player2ColorId": 2,
+        "player1Score": "3",
+        "player2Score": "1",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T23:55:00.000Z",
+        "activePlayerId": 666,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-25 Men Night Seoul",
+        "locationId": 7,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 666,
+          "firstName": "Dmytro",
+          "lastName": "Derevynskyi",
+          "gender": true,
+          "photo": "Ni82Ni82NjYvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 625433,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 8
+          },
+          {
+            "match_id": 625433,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 8
+          },
+          {
+            "match_id": 625433,
+            "number": 3,
+            "p1Score": 8,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625433,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 8
+          }
+        ]
+      },
+      {
+        "id": 625434,
+        "tournamentId": 46053,
+        "statusId": 3,
+        "position": 7,
+        "player1": {
+          "id": 1894,
+          "firstName": "Vitalii",
+          "lastName": "Khamurda",
+          "gender": true,
+          "photo": "MS8xOC8xODk0L3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 775,
+          "firstName": "Dmytro",
+          "lastName": "Rehotun",
+          "gender": true,
+          "photo": "Ny83Ny83NzUvcGhvdG8uanBn"
+        },
+        "player2ColorId": 2,
+        "player1Score": "3",
+        "player2Score": "1",
+        "technicalResult": 0,
+        "startDate": "2025-04-25T00:25:00.000Z",
+        "activePlayerId": 1894,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-25 Men Night Seoul",
+        "locationId": 7,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 1894,
+          "firstName": "Vitalii",
+          "lastName": "Khamurda",
+          "gender": true,
+          "photo": "MS8xOC8xODk0L3Bob3RvLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 625434,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 5
+          },
+          {
+            "match_id": 625434,
+            "number": 2,
+            "p1Score": 13,
+            "p2Score": 15
+          },
+          {
+            "match_id": 625434,
+            "number": 3,
+            "p1Score": 13,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625434,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 9
+          }
+        ]
+      },
+      {
+        "id": 625435,
+        "tournamentId": 46053,
+        "statusId": 3,
+        "position": 8,
+        "player1": {
+          "id": 621,
+          "firstName": "Roman",
+          "lastName": "Hnoievoi",
+          "gender": true,
+          "photo": "Ni82Mi82MjEvcGhvdG8uanBn"
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 272,
+          "firstName": "Oleksii",
+          "lastName": "Krutko",
+          "gender": true,
+          "photo": "Mi8yNy8yNzIvcGhvdG8uanBn"
+        },
+        "player2ColorId": 5,
+        "player1Score": "3",
+        "player2Score": "2",
+        "technicalResult": 0,
+        "startDate": "2025-04-25T00:55:00.000Z",
+        "activePlayerId": 272,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-25 Men Night Seoul",
+        "locationId": 7,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 621,
+          "firstName": "Roman",
+          "lastName": "Hnoievoi",
+          "gender": true,
+          "photo": "Ni82Mi82MjEvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 625435,
+            "number": 1,
+            "p1Score": 8,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625435,
+            "number": 2,
+            "p1Score": 7,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625435,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 5
+          },
+          {
+            "match_id": 625435,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 5
+          },
+          {
+            "match_id": 625435,
+            "number": 5,
+            "p1Score": 11,
+            "p2Score": 8
+          }
+        ]
+      },
+      {
+        "id": 625436,
+        "tournamentId": 46053,
+        "statusId": 3,
+        "position": 9,
+        "player1": {
+          "id": 666,
+          "firstName": "Dmytro",
+          "lastName": "Derevynskyi",
+          "gender": true,
+          "photo": "Ni82Ni82NjYvcGhvdG8uanBn"
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 641,
+          "firstName": "Oleksandr",
+          "lastName": "Naida",
+          "gender": true,
+          "photo": "Ni82NC82NDEvaW1hZ2UuanBn"
+        },
+        "player2ColorId": 2,
+        "player1Score": "3",
+        "player2Score": "0",
+        "technicalResult": 0,
+        "startDate": "2025-04-25T01:25:00.000Z",
+        "activePlayerId": 666,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-25 Men Night Seoul",
+        "locationId": 7,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 666,
+          "firstName": "Dmytro",
+          "lastName": "Derevynskyi",
+          "gender": true,
+          "photo": "Ni82Ni82NjYvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 625436,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 8
+          },
+          {
+            "match_id": 625436,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 5
+          },
+          {
+            "match_id": 625436,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 5
+          }
+        ]
+      },
+      {
+        "id": 625437,
+        "tournamentId": 46053,
+        "statusId": 3,
+        "position": 10,
+        "player1": {
+          "id": 1894,
+          "firstName": "Vitalii",
+          "lastName": "Khamurda",
+          "gender": true,
+          "photo": "MS8xOC8xODk0L3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 621,
+          "firstName": "Roman",
+          "lastName": "Hnoievoi",
+          "gender": true,
+          "photo": "Ni82Mi82MjEvcGhvdG8uanBn"
+        },
+        "player2ColorId": 2,
+        "player1Score": "2",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-04-25T01:55:00.000Z",
+        "activePlayerId": 1894,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-25 Men Night Seoul",
+        "locationId": 7,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 621,
+          "firstName": "Roman",
+          "lastName": "Hnoievoi",
+          "gender": true,
+          "photo": "Ni82Mi82MjEvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 625437,
+            "number": 1,
+            "p1Score": 8,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625437,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 8
+          },
+          {
+            "match_id": 625437,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 9
+          },
+          {
+            "match_id": 625437,
+            "number": 4,
+            "p1Score": 7,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625437,
+            "number": 5,
+            "p1Score": 9,
+            "p2Score": 11
+          }
+        ]
+      },
+      {
+        "id": 625438,
+        "tournamentId": 46053,
+        "statusId": 3,
+        "position": 11,
+        "player1": {
+          "id": 666,
+          "firstName": "Dmytro",
+          "lastName": "Derevynskyi",
+          "gender": true,
+          "photo": "Ni82Ni82NjYvcGhvdG8uanBn"
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 775,
+          "firstName": "Dmytro",
+          "lastName": "Rehotun",
+          "gender": true,
+          "photo": "Ny83Ny83NzUvcGhvdG8uanBn"
+        },
+        "player2ColorId": 2,
+        "player1Score": "3",
+        "player2Score": "1",
+        "technicalResult": 0,
+        "startDate": "2025-04-25T02:25:00.000Z",
+        "activePlayerId": 666,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-25 Men Night Seoul",
+        "locationId": 7,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 666,
+          "firstName": "Dmytro",
+          "lastName": "Derevynskyi",
+          "gender": true,
+          "photo": "Ni82Ni82NjYvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 625438,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 7
+          },
+          {
+            "match_id": 625438,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 6
+          },
+          {
+            "match_id": 625438,
+            "number": 3,
+            "p1Score": 9,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625438,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 4
+          }
+        ]
+      },
+      {
+        "id": 625439,
+        "tournamentId": 46053,
+        "statusId": 3,
+        "position": 12,
+        "player1": {
+          "id": 272,
+          "firstName": "Oleksii",
+          "lastName": "Krutko",
+          "gender": true,
+          "photo": "Mi8yNy8yNzIvcGhvdG8uanBn"
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 641,
+          "firstName": "Oleksandr",
+          "lastName": "Naida",
+          "gender": true,
+          "photo": "Ni82NC82NDEvaW1hZ2UuanBn"
+        },
+        "player2ColorId": 2,
+        "player1Score": "2",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-04-25T02:55:00.000Z",
+        "activePlayerId": 272,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-25 Men Night Seoul",
+        "locationId": 7,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 641,
+          "firstName": "Oleksandr",
+          "lastName": "Naida",
+          "gender": true,
+          "photo": "Ni82NC82NDEvaW1hZ2UuanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 625439,
+            "number": 1,
+            "p1Score": 3,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625439,
+            "number": 2,
+            "p1Score": 12,
+            "p2Score": 10
+          },
+          {
+            "match_id": 625439,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 8
+          },
+          {
+            "match_id": 625439,
+            "number": 4,
+            "p1Score": 12,
+            "p2Score": 14
+          },
+          {
+            "match_id": 625439,
+            "number": 5,
+            "p1Score": 8,
+            "p2Score": 11
+          }
+        ]
+      },
+      {
+        "id": 625440,
+        "tournamentId": 46053,
+        "statusId": 3,
+        "position": 13,
+        "player1": {
+          "id": 1894,
+          "firstName": "Vitalii",
+          "lastName": "Khamurda",
+          "gender": true,
+          "photo": "MS8xOC8xODk0L3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 666,
+          "firstName": "Dmytro",
+          "lastName": "Derevynskyi",
+          "gender": true,
+          "photo": "Ni82Ni82NjYvcGhvdG8uanBn"
+        },
+        "player2ColorId": 5,
+        "player1Score": "3",
+        "player2Score": "1",
+        "technicalResult": 0,
+        "startDate": "2025-04-25T03:25:00.000Z",
+        "activePlayerId": 666,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-25 Men Night Seoul",
+        "locationId": 7,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 1894,
+          "firstName": "Vitalii",
+          "lastName": "Khamurda",
+          "gender": true,
+          "photo": "MS8xOC8xODk0L3Bob3RvLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 625440,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 6
+          },
+          {
+            "match_id": 625440,
+            "number": 2,
+            "p1Score": 15,
+            "p2Score": 13
+          },
+          {
+            "match_id": 625440,
+            "number": 3,
+            "p1Score": 4,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625440,
+            "number": 4,
+            "p1Score": 13,
+            "p2Score": 11
+          }
+        ]
+      },
+      {
+        "id": 625441,
+        "tournamentId": 46053,
+        "statusId": 3,
+        "position": 14,
+        "player1": {
+          "id": 621,
+          "firstName": "Roman",
+          "lastName": "Hnoievoi",
+          "gender": true,
+          "photo": "Ni82Mi82MjEvcGhvdG8uanBn"
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 641,
+          "firstName": "Oleksandr",
+          "lastName": "Naida",
+          "gender": true,
+          "photo": "Ni82NC82NDEvaW1hZ2UuanBn"
+        },
+        "player2ColorId": 5,
+        "player1Score": "0",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-04-25T03:55:00.000Z",
+        "activePlayerId": 641,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-25 Men Night Seoul",
+        "locationId": 7,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 641,
+          "firstName": "Oleksandr",
+          "lastName": "Naida",
+          "gender": true,
+          "photo": "Ni82NC82NDEvaW1hZ2UuanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 625441,
+            "number": 1,
+            "p1Score": 4,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625441,
+            "number": 2,
+            "p1Score": 4,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625441,
+            "number": 3,
+            "p1Score": 4,
+            "p2Score": 11
+          }
+        ]
+      },
+      {
+        "id": 625442,
+        "tournamentId": 46053,
+        "statusId": 3,
+        "position": 15,
+        "player1": {
+          "id": 775,
+          "firstName": "Dmytro",
+          "lastName": "Rehotun",
+          "gender": true,
+          "photo": "Ny83Ny83NzUvcGhvdG8uanBn"
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 272,
+          "firstName": "Oleksii",
+          "lastName": "Krutko",
+          "gender": true,
+          "photo": "Mi8yNy8yNzIvcGhvdG8uanBn"
+        },
+        "player2ColorId": 5,
+        "player1Score": "0",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-04-25T04:25:00.000Z",
+        "activePlayerId": 272,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-25 Men Night Seoul",
+        "locationId": 7,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 272,
+          "firstName": "Oleksii",
+          "lastName": "Krutko",
+          "gender": true,
+          "photo": "Mi8yNy8yNzIvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 625442,
+            "number": 1,
+            "p1Score": 6,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625442,
+            "number": 2,
+            "p1Score": 4,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625442,
+            "number": 3,
+            "p1Score": 7,
+            "p2Score": 11
+          }
+        ]
+      }
+    ],
+    "secondCircle": false,
+    "startDate": "2025-04-24T21:25:00.000Z",
+    "statusCode": "finished",
+    "token": "2025-04-25 Men Night Seoul",
+    "divisionToken": "Men",
+    "result": {
+      "matches": {
+        "1": {
+          "1894-641": {
+            "match_id": "625428",
+            "status": "finished",
+            "winner": "641",
+            "score": {
+              "641": 3,
+              "1894": 1
+            }
+          },
+          "641-1894": {
+            "match_id": "625428",
+            "status": "finished",
+            "winner": "641",
+            "score": {
+              "641": 3,
+              "1894": 1
+            }
+          },
+          "666-272": {
+            "match_id": "625429",
+            "status": "finished",
+            "winner": "272",
+            "score": {
+              "272": 3,
+              "666": 1
+            }
+          },
+          "272-666": {
+            "match_id": "625429",
+            "status": "finished",
+            "winner": "272",
+            "score": {
+              "272": 3,
+              "666": 1
+            }
+          },
+          "621-775": {
+            "match_id": "625430",
+            "status": "finished",
+            "winner": "775",
+            "score": {
+              "621": 0,
+              "775": 3
+            }
+          },
+          "775-621": {
+            "match_id": "625430",
+            "status": "finished",
+            "winner": "775",
+            "score": {
+              "621": 0,
+              "775": 3
+            }
+          },
+          "1894-272": {
+            "match_id": "625431",
+            "status": "finished",
+            "winner": "1894",
+            "score": {
+              "272": 1,
+              "1894": 3
+            }
+          },
+          "272-1894": {
+            "match_id": "625431",
+            "status": "finished",
+            "winner": "1894",
+            "score": {
+              "272": 1,
+              "1894": 3
+            }
+          },
+          "775-641": {
+            "match_id": "625432",
+            "status": "finished",
+            "winner": "775",
+            "score": {
+              "641": 0,
+              "775": 3
+            }
+          },
+          "641-775": {
+            "match_id": "625432",
+            "status": "finished",
+            "winner": "775",
+            "score": {
+              "641": 0,
+              "775": 3
+            }
+          },
+          "666-621": {
+            "match_id": "625433",
+            "status": "finished",
+            "winner": "666",
+            "score": {
+              "621": 1,
+              "666": 3
+            }
+          },
+          "621-666": {
+            "match_id": "625433",
+            "status": "finished",
+            "winner": "666",
+            "score": {
+              "621": 1,
+              "666": 3
+            }
+          },
+          "1894-775": {
+            "match_id": "625434",
+            "status": "finished",
+            "winner": "1894",
+            "score": {
+              "775": 1,
+              "1894": 3
+            }
+          },
+          "775-1894": {
+            "match_id": "625434",
+            "status": "finished",
+            "winner": "1894",
+            "score": {
+              "775": 1,
+              "1894": 3
+            }
+          },
+          "621-272": {
+            "match_id": "625435",
+            "status": "finished",
+            "winner": "621",
+            "score": {
+              "272": 2,
+              "621": 3
+            }
+          },
+          "272-621": {
+            "match_id": "625435",
+            "status": "finished",
+            "winner": "621",
+            "score": {
+              "272": 2,
+              "621": 3
+            }
+          },
+          "666-641": {
+            "match_id": "625436",
+            "status": "finished",
+            "winner": "666",
+            "score": {
+              "641": 0,
+              "666": 3
+            }
+          },
+          "641-666": {
+            "match_id": "625436",
+            "status": "finished",
+            "winner": "666",
+            "score": {
+              "641": 0,
+              "666": 3
+            }
+          },
+          "1894-621": {
+            "match_id": "625437",
+            "status": "finished",
+            "winner": "621",
+            "score": {
+              "621": 3,
+              "1894": 2
+            }
+          },
+          "621-1894": {
+            "match_id": "625437",
+            "status": "finished",
+            "winner": "621",
+            "score": {
+              "621": 3,
+              "1894": 2
+            }
+          },
+          "666-775": {
+            "match_id": "625438",
+            "status": "finished",
+            "winner": "666",
+            "score": {
+              "666": 3,
+              "775": 1
+            }
+          },
+          "775-666": {
+            "match_id": "625438",
+            "status": "finished",
+            "winner": "666",
+            "score": {
+              "666": 3,
+              "775": 1
+            }
+          },
+          "272-641": {
+            "match_id": "625439",
+            "status": "finished",
+            "winner": "641",
+            "score": {
+              "272": 2,
+              "641": 3
+            }
+          },
+          "641-272": {
+            "match_id": "625439",
+            "status": "finished",
+            "winner": "641",
+            "score": {
+              "272": 2,
+              "641": 3
+            }
+          },
+          "1894-666": {
+            "match_id": "625440",
+            "status": "finished",
+            "winner": "1894",
+            "score": {
+              "666": 1,
+              "1894": 3
+            }
+          },
+          "666-1894": {
+            "match_id": "625440",
+            "status": "finished",
+            "winner": "1894",
+            "score": {
+              "666": 1,
+              "1894": 3
+            }
+          },
+          "621-641": {
+            "match_id": "625441",
+            "status": "finished",
+            "winner": "641",
+            "score": {
+              "621": 0,
+              "641": 3
+            }
+          },
+          "641-621": {
+            "match_id": "625441",
+            "status": "finished",
+            "winner": "641",
+            "score": {
+              "621": 0,
+              "641": 3
+            }
+          },
+          "775-272": {
+            "match_id": "625442",
+            "status": "finished",
+            "winner": "272",
+            "score": {
+              "272": 3,
+              "775": 0
+            }
+          },
+          "272-775": {
+            "match_id": "625442",
+            "status": "finished",
+            "winner": "272",
+            "score": {
+              "272": 3,
+              "775": 0
+            }
+          }
+        }
+      },
+      "players": {
+        "272": {
+          "points": 7,
+          "real_points": 7,
+          "position": 4,
+          "real_position": 4,
+          "matches": {
+            "won": 2,
+            "lose": 3,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 5
+          },
+          "sets": {
+            "won": 11,
+            "lose": 10,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 21
+          },
+          "id": 272,
+          "number": 1,
+          "firstName": "Oleksii",
+          "lastName": "Krutko",
+          "gender": true,
+          "photo": "Mi8yNy8yNzIvcGhvdG8uanBn"
+        },
+        "621": {
+          "points": 7,
+          "real_points": 7,
+          "position": 6,
+          "real_position": 6,
+          "matches": {
+            "won": 2,
+            "lose": 3,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 5
+          },
+          "sets": {
+            "won": 7,
+            "lose": 13,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 20
+          },
+          "id": 621,
+          "number": 2,
+          "firstName": "Roman",
+          "lastName": "Hnoievoi",
+          "gender": true,
+          "photo": "Ni82Mi82MjEvcGhvdG8uanBn"
+        },
+        "641": {
+          "points": 8,
+          "real_points": 8,
+          "position": 3,
+          "real_position": 3,
+          "matches": {
+            "won": 3,
+            "lose": 2,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 5
+          },
+          "sets": {
+            "won": 9,
+            "lose": 9,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 18
+          },
+          "id": 641,
+          "number": 3,
+          "firstName": "Oleksandr",
+          "lastName": "Naida",
+          "gender": true,
+          "photo": "Ni82NC82NDEvaW1hZ2UuanBn"
+        },
+        "666": {
+          "points": 8,
+          "real_points": 8,
+          "position": 1,
+          "real_position": 1,
+          "matches": {
+            "won": 3,
+            "lose": 2,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 5
+          },
+          "sets": {
+            "won": 11,
+            "lose": 8,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 19
+          },
+          "id": 666,
+          "number": 4,
+          "firstName": "Dmytro",
+          "lastName": "Derevynskyi",
+          "gender": true,
+          "photo": "Ni82Ni82NjYvcGhvdG8uanBn"
+        },
+        "775": {
+          "points": 7,
+          "real_points": 7,
+          "position": 5,
+          "real_position": 5,
+          "matches": {
+            "won": 2,
+            "lose": 3,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 5
+          },
+          "sets": {
+            "won": 8,
+            "lose": 9,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 17
+          },
+          "id": 775,
+          "number": 5,
+          "firstName": "Dmytro",
+          "lastName": "Rehotun",
+          "gender": true,
+          "photo": "Ny83Ny83NzUvcGhvdG8uanBn"
+        },
+        "1894": {
+          "points": 8,
+          "real_points": 8,
+          "position": 2,
+          "real_position": 2,
+          "matches": {
+            "won": 3,
+            "lose": 2,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 5
+          },
+          "sets": {
+            "won": 12,
+            "lose": 9,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 21
+          },
+          "id": 1894,
+          "number": 6,
+          "firstName": "Vitalii",
+          "lastName": "Khamurda",
+          "gender": true,
+          "photo": "MS8xOC8xODk0L3Bob3RvLmpwZw=="
+        }
+      },
+      "positions": {
+        "272": 4,
+        "621": 6,
+        "641": 3,
+        "666": 1,
+        "775": 5,
+        "1894": 2
+      }
+    }
+  },
+  {
+    "id": 46054,
+    "code": "sc-location-9-250423143637-3614",
+    "dayPeriodToken": 3,
+    "locationId": 9,
+    "matches": [
+      {
+        "id": 625403,
+        "tournamentId": 46054,
+        "statusId": 3,
+        "position": 1,
+        "player1": {
+          "id": 254,
+          "firstName": "Ivan",
+          "lastName": "Kozachuk",
+          "gender": true,
+          "photo": "Mi8yNS8yNTQvcGhvdG8uanBn"
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 2787,
+          "firstName": "Andrii",
+          "lastName": "Shamrai",
+          "gender": true,
+          "photo": "Mi8yNy8yNzg3L2ltYWdlLmpwZw=="
+        },
+        "player2ColorId": 5,
+        "player1Score": "1",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T20:00:00.000Z",
+        "activePlayerId": 254,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-24 Men Night Beijing",
+        "locationId": 9,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 2787,
+          "firstName": "Andrii",
+          "lastName": "Shamrai",
+          "gender": true,
+          "photo": "Mi8yNy8yNzg3L2ltYWdlLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 625403,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 7
+          },
+          {
+            "match_id": 625403,
+            "number": 2,
+            "p1Score": 7,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625403,
+            "number": 3,
+            "p1Score": 8,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625403,
+            "number": 4,
+            "p1Score": 7,
+            "p2Score": 11
+          }
+        ]
+      },
+      {
+        "id": 625404,
+        "tournamentId": 46054,
+        "statusId": 3,
+        "position": 2,
+        "player1": {
+          "id": 1906,
+          "firstName": "Andrii",
+          "lastName": "Zeniuk",
+          "gender": true,
+          "photo": "MS8xOS8xOTA2L2ltYWdlLmpwZw=="
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 1920,
+          "firstName": "Dmytro",
+          "lastName": "Zeniuk",
+          "gender": true,
+          "photo": "MS8xOS8xOTIwL2ltYWdlLmpwZw=="
+        },
+        "player2ColorId": 5,
+        "player1Score": "3",
+        "player2Score": "1",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T20:30:00.000Z",
+        "activePlayerId": 1920,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-24 Men Night Beijing",
+        "locationId": 9,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 1906,
+          "firstName": "Andrii",
+          "lastName": "Zeniuk",
+          "gender": true,
+          "photo": "MS8xOS8xOTA2L2ltYWdlLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 625404,
+            "number": 1,
+            "p1Score": 9,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625404,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 8
+          },
+          {
+            "match_id": 625404,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 4
+          },
+          {
+            "match_id": 625404,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 6
+          }
+        ]
+      },
+      {
+        "id": 625405,
+        "tournamentId": 46054,
+        "statusId": 3,
+        "position": 3,
+        "player1": {
+          "id": 107,
+          "firstName": "Andrii",
+          "lastName": "Kotyk",
+          "gender": true,
+          "photo": "MS8xMC8xMDcvaW1hZ2UuanBn"
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 2787,
+          "firstName": "Andrii",
+          "lastName": "Shamrai",
+          "gender": true,
+          "photo": "Mi8yNy8yNzg3L2ltYWdlLmpwZw=="
+        },
+        "player2ColorId": 5,
+        "player1Score": "0",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T21:00:00.000Z",
+        "activePlayerId": 2787,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-24 Men Night Beijing",
+        "locationId": 9,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 2787,
+          "firstName": "Andrii",
+          "lastName": "Shamrai",
+          "gender": true,
+          "photo": "Mi8yNy8yNzg3L2ltYWdlLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 625405,
+            "number": 1,
+            "p1Score": 9,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625405,
+            "number": 2,
+            "p1Score": 9,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625405,
+            "number": 3,
+            "p1Score": 4,
+            "p2Score": 11
+          }
+        ]
+      },
+      {
+        "id": 625406,
+        "tournamentId": 46054,
+        "statusId": 3,
+        "position": 4,
+        "player1": {
+          "id": 254,
+          "firstName": "Ivan",
+          "lastName": "Kozachuk",
+          "gender": true,
+          "photo": "Mi8yNS8yNTQvcGhvdG8uanBn"
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 1906,
+          "firstName": "Andrii",
+          "lastName": "Zeniuk",
+          "gender": true,
+          "photo": "MS8xOS8xOTA2L2ltYWdlLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "3",
+        "player2Score": "0",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T21:30:00.000Z",
+        "activePlayerId": 254,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-24 Men Night Beijing",
+        "locationId": 9,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 254,
+          "firstName": "Ivan",
+          "lastName": "Kozachuk",
+          "gender": true,
+          "photo": "Mi8yNS8yNTQvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 625406,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 4
+          },
+          {
+            "match_id": 625406,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 7
+          },
+          {
+            "match_id": 625406,
+            "number": 3,
+            "p1Score": 13,
+            "p2Score": 11
+          }
+        ]
+      },
+      {
+        "id": 625407,
+        "tournamentId": 46054,
+        "statusId": 3,
+        "position": 5,
+        "player1": {
+          "id": 107,
+          "firstName": "Andrii",
+          "lastName": "Kotyk",
+          "gender": true,
+          "photo": "MS8xMC8xMDcvaW1hZ2UuanBn"
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 1920,
+          "firstName": "Dmytro",
+          "lastName": "Zeniuk",
+          "gender": true,
+          "photo": "MS8xOS8xOTIwL2ltYWdlLmpwZw=="
+        },
+        "player2ColorId": 5,
+        "player1Score": "3",
+        "player2Score": "2",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T22:00:00.000Z",
+        "activePlayerId": 1920,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-24 Men Night Beijing",
+        "locationId": 9,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 107,
+          "firstName": "Andrii",
+          "lastName": "Kotyk",
+          "gender": true,
+          "photo": "MS8xMC8xMDcvaW1hZ2UuanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 625407,
+            "number": 1,
+            "p1Score": 7,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625407,
+            "number": 2,
+            "p1Score": 15,
+            "p2Score": 13
+          },
+          {
+            "match_id": 625407,
+            "number": 3,
+            "p1Score": 8,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625407,
+            "number": 4,
+            "p1Score": 13,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625407,
+            "number": 5,
+            "p1Score": 11,
+            "p2Score": 9
+          }
+        ]
+      },
+      {
+        "id": 625408,
+        "tournamentId": 46054,
+        "statusId": 3,
+        "position": 6,
+        "player1": {
+          "id": 1906,
+          "firstName": "Andrii",
+          "lastName": "Zeniuk",
+          "gender": true,
+          "photo": "MS8xOS8xOTA2L2ltYWdlLmpwZw=="
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 2787,
+          "firstName": "Andrii",
+          "lastName": "Shamrai",
+          "gender": true,
+          "photo": "Mi8yNy8yNzg3L2ltYWdlLmpwZw=="
+        },
+        "player2ColorId": 5,
+        "player1Score": "2",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T22:30:00.000Z",
+        "activePlayerId": 1906,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-24 Men Night Beijing",
+        "locationId": 9,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 2787,
+          "firstName": "Andrii",
+          "lastName": "Shamrai",
+          "gender": true,
+          "photo": "Mi8yNy8yNzg3L2ltYWdlLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 625408,
+            "number": 1,
+            "p1Score": 6,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625408,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 6
+          },
+          {
+            "match_id": 625408,
+            "number": 3,
+            "p1Score": 5,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625408,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 9
+          },
+          {
+            "match_id": 625408,
+            "number": 5,
+            "p1Score": 7,
+            "p2Score": 11
+          }
+        ]
+      },
+      {
+        "id": 625409,
+        "tournamentId": 46054,
+        "statusId": 3,
+        "position": 7,
+        "player1": {
+          "id": 254,
+          "firstName": "Ivan",
+          "lastName": "Kozachuk",
+          "gender": true,
+          "photo": "Mi8yNS8yNTQvcGhvdG8uanBn"
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 1920,
+          "firstName": "Dmytro",
+          "lastName": "Zeniuk",
+          "gender": true,
+          "photo": "MS8xOS8xOTIwL2ltYWdlLmpwZw=="
+        },
+        "player2ColorId": 5,
+        "player1Score": "3",
+        "player2Score": "1",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T23:00:00.000Z",
+        "activePlayerId": 1920,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-24 Men Night Beijing",
+        "locationId": 9,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 254,
+          "firstName": "Ivan",
+          "lastName": "Kozachuk",
+          "gender": true,
+          "photo": "Mi8yNS8yNTQvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 625409,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 9
+          },
+          {
+            "match_id": 625409,
+            "number": 2,
+            "p1Score": 13,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625409,
+            "number": 3,
+            "p1Score": 6,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625409,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 7
+          }
+        ]
+      },
+      {
+        "id": 625410,
+        "tournamentId": 46054,
+        "statusId": 3,
+        "position": 8,
+        "player1": {
+          "id": 107,
+          "firstName": "Andrii",
+          "lastName": "Kotyk",
+          "gender": true,
+          "photo": "MS8xMC8xMDcvaW1hZ2UuanBn"
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 1906,
+          "firstName": "Andrii",
+          "lastName": "Zeniuk",
+          "gender": true,
+          "photo": "MS8xOS8xOTA2L2ltYWdlLmpwZw=="
+        },
+        "player2ColorId": 5,
+        "player1Score": "3",
+        "player2Score": "1",
+        "technicalResult": 0,
+        "startDate": "2025-04-24T23:30:00.000Z",
+        "activePlayerId": 1906,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-24 Men Night Beijing",
+        "locationId": 9,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 107,
+          "firstName": "Andrii",
+          "lastName": "Kotyk",
+          "gender": true,
+          "photo": "MS8xMC8xMDcvaW1hZ2UuanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 625410,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 9
+          },
+          {
+            "match_id": 625410,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 7
+          },
+          {
+            "match_id": 625410,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 13
+          },
+          {
+            "match_id": 625410,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 9
+          }
+        ]
+      },
+      {
+        "id": 625411,
+        "tournamentId": 46054,
+        "statusId": 3,
+        "position": 9,
+        "player1": {
+          "id": 1920,
+          "firstName": "Dmytro",
+          "lastName": "Zeniuk",
+          "gender": true,
+          "photo": "MS8xOS8xOTIwL2ltYWdlLmpwZw=="
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 2787,
+          "firstName": "Andrii",
+          "lastName": "Shamrai",
+          "gender": true,
+          "photo": "Mi8yNy8yNzg3L2ltYWdlLmpwZw=="
+        },
+        "player2ColorId": 5,
+        "player1Score": "2",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-04-25T00:00:00.000Z",
+        "activePlayerId": 1920,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-24 Men Night Beijing",
+        "locationId": 9,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 2787,
+          "firstName": "Andrii",
+          "lastName": "Shamrai",
+          "gender": true,
+          "photo": "Mi8yNy8yNzg3L2ltYWdlLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 625411,
+            "number": 1,
+            "p1Score": 17,
+            "p2Score": 15
+          },
+          {
+            "match_id": 625411,
+            "number": 2,
+            "p1Score": 8,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625411,
+            "number": 3,
+            "p1Score": 4,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625411,
+            "number": 4,
+            "p1Score": 12,
+            "p2Score": 10
+          },
+          {
+            "match_id": 625411,
+            "number": 5,
+            "p1Score": 11,
+            "p2Score": 13
+          }
+        ]
+      },
+      {
+        "id": 625412,
+        "tournamentId": 46054,
+        "statusId": 3,
+        "position": 10,
+        "player1": {
+          "id": 107,
+          "firstName": "Andrii",
+          "lastName": "Kotyk",
+          "gender": true,
+          "photo": "MS8xMC8xMDcvaW1hZ2UuanBn"
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 254,
+          "firstName": "Ivan",
+          "lastName": "Kozachuk",
+          "gender": true,
+          "photo": "Mi8yNS8yNTQvcGhvdG8uanBn"
+        },
+        "player2ColorId": 2,
+        "player1Score": "3",
+        "player2Score": "1",
+        "technicalResult": 0,
+        "startDate": "2025-04-25T00:30:00.000Z",
+        "activePlayerId": 254,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-04-24 Men Night Beijing",
+        "locationId": 9,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 107,
+          "firstName": "Andrii",
+          "lastName": "Kotyk",
+          "gender": true,
+          "photo": "MS8xMC8xMDcvaW1hZ2UuanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 625412,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 9
+          },
+          {
+            "match_id": 625412,
+            "number": 2,
+            "p1Score": 8,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625412,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 8
+          },
+          {
+            "match_id": 625412,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 4
+          }
+        ]
+      },
+      {
+        "id": 625849,
+        "tournamentId": 46054,
+        "statusId": 3,
+        "position": 11,
+        "player1": {
+          "id": 1906,
+          "firstName": "Andrii",
+          "lastName": "Zeniuk",
+          "gender": true,
+          "photo": "MS8xOS8xOTA2L2ltYWdlLmpwZw=="
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 254,
+          "firstName": "Ivan",
+          "lastName": "Kozachuk",
+          "gender": true,
+          "photo": "Mi8yNS8yNTQvcGhvdG8uanBn"
+        },
+        "player2ColorId": 5,
+        "player1Score": "3",
+        "player2Score": "0",
+        "technicalResult": 0,
+        "startDate": "2025-04-25T01:10:00.000Z",
+        "activePlayerId": 1906,
+        "reverse": 1,
+        "forPositionId": 3,
+        "tournamentName": "2025-04-24 Men Night Beijing",
+        "locationId": 9,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 1906,
+          "firstName": "Andrii",
+          "lastName": "Zeniuk",
+          "gender": true,
+          "photo": "MS8xOS8xOTA2L2ltYWdlLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 625849,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 7
+          },
+          {
+            "match_id": 625849,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 6
+          },
+          {
+            "match_id": 625849,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 7
+          }
+        ]
+      },
+      {
+        "id": 625850,
+        "tournamentId": 46054,
+        "statusId": 3,
+        "position": 12,
+        "player1": {
+          "id": 2787,
+          "firstName": "Andrii",
+          "lastName": "Shamrai",
+          "gender": true,
+          "photo": "Mi8yNy8yNzg3L2ltYWdlLmpwZw=="
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 107,
+          "firstName": "Andrii",
+          "lastName": "Kotyk",
+          "gender": true,
+          "photo": "MS8xMC8xMDcvaW1hZ2UuanBn"
+        },
+        "player2ColorId": 2,
+        "player1Score": "2",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-04-25T01:40:00.000Z",
+        "activePlayerId": 2787,
+        "reverse": 0,
+        "forPositionId": 2,
+        "tournamentName": "2025-04-24 Men Night Beijing",
+        "locationId": 9,
+        "dayPeriodToken": 3,
+        "correction": 0,
+        "winner": {
+          "id": 107,
+          "firstName": "Andrii",
+          "lastName": "Kotyk",
+          "gender": true,
+          "photo": "MS8xMC8xMDcvaW1hZ2UuanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 625850,
+            "number": 1,
+            "p1Score": 12,
+            "p2Score": 10
+          },
+          {
+            "match_id": 625850,
+            "number": 2,
+            "p1Score": 12,
+            "p2Score": 10
+          },
+          {
+            "match_id": 625850,
+            "number": 3,
+            "p1Score": 10,
+            "p2Score": 12
+          },
+          {
+            "match_id": 625850,
+            "number": 4,
+            "p1Score": 6,
+            "p2Score": 11
+          },
+          {
+            "match_id": 625850,
+            "number": 5,
+            "p1Score": 4,
+            "p2Score": 11
+          }
+        ]
+      }
+    ],
+    "secondCircle": false,
+    "startDate": "2025-04-24T20:00:00.000Z",
+    "statusCode": "finished",
+    "token": "2025-04-24 Men Night Beijing",
+    "divisionToken": "Men",
+    "result": {
+      "matches": {
+        "1": {
+          "254-2787": {
+            "match_id": "625403",
+            "status": "finished",
+            "winner": "2787",
+            "score": {
+              "254": 1,
+              "2787": 3
+            }
+          },
+          "2787-254": {
+            "match_id": "625403",
+            "status": "finished",
+            "winner": "2787",
+            "score": {
+              "254": 1,
+              "2787": 3
+            }
+          },
+          "1906-1920": {
+            "match_id": "625404",
+            "status": "finished",
+            "winner": "1906",
+            "score": {
+              "1906": 3,
+              "1920": 1
+            }
+          },
+          "1920-1906": {
+            "match_id": "625404",
+            "status": "finished",
+            "winner": "1906",
+            "score": {
+              "1906": 3,
+              "1920": 1
+            }
+          },
+          "107-2787": {
+            "match_id": "625405",
+            "status": "finished",
+            "winner": "2787",
+            "score": {
+              "107": 0,
+              "2787": 3
+            }
+          },
+          "2787-107": {
+            "match_id": "625405",
+            "status": "finished",
+            "winner": "2787",
+            "score": {
+              "107": 0,
+              "2787": 3
+            }
+          },
+          "254-1906": {
+            "match_id": "625406",
+            "status": "finished",
+            "winner": "254",
+            "score": {
+              "254": 3,
+              "1906": 0
+            }
+          },
+          "1906-254": {
+            "match_id": "625406",
+            "status": "finished",
+            "winner": "254",
+            "score": {
+              "254": 3,
+              "1906": 0
+            }
+          },
+          "107-1920": {
+            "match_id": "625407",
+            "status": "finished",
+            "winner": "107",
+            "score": {
+              "107": 3,
+              "1920": 2
+            }
+          },
+          "1920-107": {
+            "match_id": "625407",
+            "status": "finished",
+            "winner": "107",
+            "score": {
+              "107": 3,
+              "1920": 2
+            }
+          },
+          "1906-2787": {
+            "match_id": "625408",
+            "status": "finished",
+            "winner": "2787",
+            "score": {
+              "1906": 2,
+              "2787": 3
+            }
+          },
+          "2787-1906": {
+            "match_id": "625408",
+            "status": "finished",
+            "winner": "2787",
+            "score": {
+              "1906": 2,
+              "2787": 3
+            }
+          },
+          "254-1920": {
+            "match_id": "625409",
+            "status": "finished",
+            "winner": "254",
+            "score": {
+              "254": 3,
+              "1920": 1
+            }
+          },
+          "1920-254": {
+            "match_id": "625409",
+            "status": "finished",
+            "winner": "254",
+            "score": {
+              "254": 3,
+              "1920": 1
+            }
+          },
+          "107-1906": {
+            "match_id": "625410",
+            "status": "finished",
+            "winner": "107",
+            "score": {
+              "107": 3,
+              "1906": 1
+            }
+          },
+          "1906-107": {
+            "match_id": "625410",
+            "status": "finished",
+            "winner": "107",
+            "score": {
+              "107": 3,
+              "1906": 1
+            }
+          },
+          "1920-2787": {
+            "match_id": "625411",
+            "status": "finished",
+            "winner": "2787",
+            "score": {
+              "1920": 2,
+              "2787": 3
+            }
+          },
+          "2787-1920": {
+            "match_id": "625411",
+            "status": "finished",
+            "winner": "2787",
+            "score": {
+              "1920": 2,
+              "2787": 3
+            }
+          },
+          "107-254": {
+            "match_id": "625412",
+            "status": "finished",
+            "winner": "107",
+            "score": {
+              "107": 3,
+              "254": 1
+            }
+          },
+          "254-107": {
+            "match_id": "625412",
+            "status": "finished",
+            "winner": "107",
+            "score": {
+              "107": 3,
+              "254": 1
+            }
+          }
+        }
+      },
+      "players": {
+        "107": {
+          "points": 7,
+          "real_points": 9,
+          "position": 2,
+          "real_position": 1,
+          "matches": {
+            "won": 4,
+            "lose": 1,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 5
+          },
+          "sets": {
+            "won": 12,
+            "lose": 9,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 21
+          },
+          "id": 107,
+          "number": 1,
+          "firstName": "Andrii",
+          "lastName": "Kotyk",
+          "gender": true,
+          "photo": "MS8xMC8xMDcvaW1hZ2UuanBn"
+        },
+        "254": {
+          "points": 6,
+          "real_points": 7,
+          "position": 3,
+          "real_position": 4,
+          "matches": {
+            "won": 2,
+            "lose": 3,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 5
+          },
+          "sets": {
+            "won": 8,
+            "lose": 10,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 18
+          },
+          "id": 254,
+          "number": 2,
+          "firstName": "Ivan",
+          "lastName": "Kozachuk",
+          "gender": true,
+          "photo": "Mi8yNS8yNTQvcGhvdG8uanBn"
+        },
+        "1906": {
+          "points": 5,
+          "real_points": 7,
+          "position": 4,
+          "real_position": 3,
+          "matches": {
+            "won": 2,
+            "lose": 3,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 5
+          },
+          "sets": {
+            "won": 9,
+            "lose": 10,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 19
+          },
+          "id": 1906,
+          "number": 3,
+          "firstName": "Andrii",
+          "lastName": "Zeniuk",
+          "gender": true,
+          "photo": "MS8xOS8xOTA2L2ltYWdlLmpwZw=="
+        },
+        "1920": {
+          "points": 4,
+          "real_points": 4,
+          "position": 5,
+          "real_position": 5,
+          "matches": {
+            "won": 0,
+            "lose": 4,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 4
+          },
+          "sets": {
+            "won": 6,
+            "lose": 12,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 18
+          },
+          "id": 1920,
+          "number": 4,
+          "firstName": "Dmytro",
+          "lastName": "Zeniuk",
+          "gender": true,
+          "photo": "MS8xOS8xOTIwL2ltYWdlLmpwZw=="
+        },
+        "2787": {
+          "points": 8,
+          "real_points": 9,
+          "position": 1,
+          "real_position": 2,
+          "matches": {
+            "won": 4,
+            "lose": 1,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 5
+          },
+          "sets": {
+            "won": 14,
+            "lose": 8,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 22
+          },
+          "id": 2787,
+          "number": 5,
+          "firstName": "Andrii",
+          "lastName": "Shamrai",
+          "gender": true,
+          "photo": "Mi8yNy8yNzg3L2ltYWdlLmpwZw=="
+        }
+      },
+      "positions": {
+        "107": 1,
+        "254": 4,
+        "1906": 3,
+        "1920": 5,
+        "2787": 2
+      }
+    }
+  }
+]

@@ -1,0 +1,1453 @@
+[
+  {
+    "id": 44617,
+    "code": "sc-location-4-250311151601-3701",
+    "dayPeriodToken": 7,
+    "locationId": 4,
+    "matches": [
+      {
+        "id": 608508,
+        "tournamentId": 44617,
+        "statusId": 3,
+        "position": 1,
+        "player1": {
+          "id": 397,
+          "firstName": "Kostiantyn",
+          "lastName": "Klymenko",
+          "gender": true,
+          "photo": "My8zOS8zOTcvcGhvdG8uanBn"
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 240,
+          "firstName": "Serhii",
+          "lastName": "Solomko",
+          "gender": true,
+          "photo": "Mi8yNC8yNDAvcGhvdG8uanBn"
+        },
+        "player2ColorId": 2,
+        "player1Score": "3",
+        "player2Score": "2",
+        "technicalResult": 0,
+        "startDate": "2025-03-12T15:50:00.000Z",
+        "activePlayerId": 240,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-03-12 Men Midnight Australia",
+        "locationId": 4,
+        "dayPeriodToken": 7,
+        "correction": 0,
+        "winner": {
+          "id": 397,
+          "firstName": "Kostiantyn",
+          "lastName": "Klymenko",
+          "gender": true,
+          "photo": "My8zOS8zOTcvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 608508,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 9
+          },
+          {
+            "match_id": 608508,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 3
+          },
+          {
+            "match_id": 608508,
+            "number": 3,
+            "p1Score": 7,
+            "p2Score": 11
+          },
+          {
+            "match_id": 608508,
+            "number": 4,
+            "p1Score": 5,
+            "p2Score": 11
+          },
+          {
+            "match_id": 608508,
+            "number": 5,
+            "p1Score": 11,
+            "p2Score": 9
+          }
+        ]
+      },
+      {
+        "id": 608509,
+        "tournamentId": 44617,
+        "statusId": 3,
+        "position": 2,
+        "player1": {
+          "id": 280,
+          "firstName": "Stefan",
+          "lastName": "Yakimenko",
+          "gender": true,
+          "photo": "Mi8yOC8yODAvcGhvdG8uanBn"
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 398,
+          "firstName": "Serhii",
+          "lastName": "Semenets",
+          "gender": true,
+          "photo": "My8zOS8zOTgvcGhvdG8uanBn"
+        },
+        "player2ColorId": 5,
+        "player1Score": "0",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-03-12T16:20:00.000Z",
+        "activePlayerId": 398,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-03-12 Men Midnight Australia",
+        "locationId": 4,
+        "dayPeriodToken": 7,
+        "correction": 0,
+        "winner": {
+          "id": 398,
+          "firstName": "Serhii",
+          "lastName": "Semenets",
+          "gender": true,
+          "photo": "My8zOS8zOTgvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 608509,
+            "number": 1,
+            "p1Score": 6,
+            "p2Score": 11
+          },
+          {
+            "match_id": 608509,
+            "number": 2,
+            "p1Score": 4,
+            "p2Score": 11
+          },
+          {
+            "match_id": 608509,
+            "number": 3,
+            "p1Score": 3,
+            "p2Score": 11
+          }
+        ]
+      },
+      {
+        "id": 608510,
+        "tournamentId": 44617,
+        "statusId": 3,
+        "position": 3,
+        "player1": {
+          "id": 1078,
+          "firstName": "Oleksandr",
+          "lastName": "Osadchyi",
+          "gender": true,
+          "photo": "MS8xMC8xMDc4L3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 1709,
+          "firstName": "Serhii",
+          "lastName": "Hovorunets",
+          "gender": true,
+          "photo": "MS8xNy8xNzA5L3Bob3RvLmpwZw=="
+        },
+        "player2ColorId": 5,
+        "player1Score": "3",
+        "player2Score": "1",
+        "technicalResult": 0,
+        "startDate": "2025-03-12T16:50:00.000Z",
+        "activePlayerId": 1078,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-03-12 Men Midnight Australia",
+        "locationId": 4,
+        "dayPeriodToken": 7,
+        "correction": 0,
+        "winner": {
+          "id": 1078,
+          "firstName": "Oleksandr",
+          "lastName": "Osadchyi",
+          "gender": true,
+          "photo": "MS8xMC8xMDc4L3Bob3RvLmpwZw=="
+        },
+        "setScores": [
+          {
+            "match_id": 608510,
+            "number": 1,
+            "p1Score": 13,
+            "p2Score": 11
+          },
+          {
+            "match_id": 608510,
+            "number": 2,
+            "p1Score": 7,
+            "p2Score": 11
+          },
+          {
+            "match_id": 608510,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 9
+          },
+          {
+            "match_id": 608510,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 8
+          }
+        ]
+      },
+      {
+        "id": 608511,
+        "tournamentId": 44617,
+        "statusId": 3,
+        "position": 4,
+        "player1": {
+          "id": 397,
+          "firstName": "Kostiantyn",
+          "lastName": "Klymenko",
+          "gender": true,
+          "photo": "My8zOS8zOTcvcGhvdG8uanBn"
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 398,
+          "firstName": "Serhii",
+          "lastName": "Semenets",
+          "gender": true,
+          "photo": "My8zOS8zOTgvcGhvdG8uanBn"
+        },
+        "player2ColorId": 5,
+        "player1Score": "3",
+        "player2Score": "1",
+        "technicalResult": 0,
+        "startDate": "2025-03-12T17:20:00.000Z",
+        "activePlayerId": 397,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-03-12 Men Midnight Australia",
+        "locationId": 4,
+        "dayPeriodToken": 7,
+        "correction": 0,
+        "winner": {
+          "id": 397,
+          "firstName": "Kostiantyn",
+          "lastName": "Klymenko",
+          "gender": true,
+          "photo": "My8zOS8zOTcvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 608511,
+            "number": 1,
+            "p1Score": 5,
+            "p2Score": 11
+          },
+          {
+            "match_id": 608511,
+            "number": 2,
+            "p1Score": 12,
+            "p2Score": 10
+          },
+          {
+            "match_id": 608511,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 8
+          },
+          {
+            "match_id": 608511,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 5
+          }
+        ]
+      },
+      {
+        "id": 608512,
+        "tournamentId": 44617,
+        "statusId": 3,
+        "position": 5,
+        "player1": {
+          "id": 1709,
+          "firstName": "Serhii",
+          "lastName": "Hovorunets",
+          "gender": true,
+          "photo": "MS8xNy8xNzA5L3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 240,
+          "firstName": "Serhii",
+          "lastName": "Solomko",
+          "gender": true,
+          "photo": "Mi8yNC8yNDAvcGhvdG8uanBn"
+        },
+        "player2ColorId": 5,
+        "player1Score": "1",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-03-12T17:50:00.000Z",
+        "activePlayerId": 1709,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-03-12 Men Midnight Australia",
+        "locationId": 4,
+        "dayPeriodToken": 7,
+        "correction": 0,
+        "winner": {
+          "id": 240,
+          "firstName": "Serhii",
+          "lastName": "Solomko",
+          "gender": true,
+          "photo": "Mi8yNC8yNDAvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 608512,
+            "number": 1,
+            "p1Score": 9,
+            "p2Score": 11
+          },
+          {
+            "match_id": 608512,
+            "number": 2,
+            "p1Score": 9,
+            "p2Score": 11
+          },
+          {
+            "match_id": 608512,
+            "number": 3,
+            "p1Score": 15,
+            "p2Score": 13
+          },
+          {
+            "match_id": 608512,
+            "number": 4,
+            "p1Score": 7,
+            "p2Score": 11
+          }
+        ]
+      },
+      {
+        "id": 608513,
+        "tournamentId": 44617,
+        "statusId": 3,
+        "position": 6,
+        "player1": {
+          "id": 280,
+          "firstName": "Stefan",
+          "lastName": "Yakimenko",
+          "gender": true,
+          "photo": "Mi8yOC8yODAvcGhvdG8uanBn"
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 1078,
+          "firstName": "Oleksandr",
+          "lastName": "Osadchyi",
+          "gender": true,
+          "photo": "MS8xMC8xMDc4L3Bob3RvLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "3",
+        "player2Score": "0",
+        "technicalResult": 0,
+        "startDate": "2025-03-12T18:20:00.000Z",
+        "activePlayerId": 280,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-03-12 Men Midnight Australia",
+        "locationId": 4,
+        "dayPeriodToken": 7,
+        "correction": 0,
+        "winner": {
+          "id": 280,
+          "firstName": "Stefan",
+          "lastName": "Yakimenko",
+          "gender": true,
+          "photo": "Mi8yOC8yODAvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 608513,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 6
+          },
+          {
+            "match_id": 608513,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 2
+          },
+          {
+            "match_id": 608513,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 8
+          }
+        ]
+      },
+      {
+        "id": 608514,
+        "tournamentId": 44617,
+        "statusId": 3,
+        "position": 7,
+        "player1": {
+          "id": 397,
+          "firstName": "Kostiantyn",
+          "lastName": "Klymenko",
+          "gender": true,
+          "photo": "My8zOS8zOTcvcGhvdG8uanBn"
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 1709,
+          "firstName": "Serhii",
+          "lastName": "Hovorunets",
+          "gender": true,
+          "photo": "MS8xNy8xNzA5L3Bob3RvLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "3",
+        "player2Score": "2",
+        "technicalResult": 0,
+        "startDate": "2025-03-12T18:50:00.000Z",
+        "activePlayerId": 397,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-03-12 Men Midnight Australia",
+        "locationId": 4,
+        "dayPeriodToken": 7,
+        "correction": 0,
+        "winner": {
+          "id": 397,
+          "firstName": "Kostiantyn",
+          "lastName": "Klymenko",
+          "gender": true,
+          "photo": "My8zOS8zOTcvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 608514,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 6
+          },
+          {
+            "match_id": 608514,
+            "number": 2,
+            "p1Score": 9,
+            "p2Score": 11
+          },
+          {
+            "match_id": 608514,
+            "number": 3,
+            "p1Score": 2,
+            "p2Score": 11
+          },
+          {
+            "match_id": 608514,
+            "number": 4,
+            "p1Score": 13,
+            "p2Score": 11
+          },
+          {
+            "match_id": 608514,
+            "number": 5,
+            "p1Score": 11,
+            "p2Score": 9
+          }
+        ]
+      },
+      {
+        "id": 608515,
+        "tournamentId": 44617,
+        "statusId": 3,
+        "position": 8,
+        "player1": {
+          "id": 1078,
+          "firstName": "Oleksandr",
+          "lastName": "Osadchyi",
+          "gender": true,
+          "photo": "MS8xMC8xMDc4L3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 398,
+          "firstName": "Serhii",
+          "lastName": "Semenets",
+          "gender": true,
+          "photo": "My8zOS8zOTgvcGhvdG8uanBn"
+        },
+        "player2ColorId": 5,
+        "player1Score": "2",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-03-12T19:20:00.000Z",
+        "activePlayerId": 398,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-03-12 Men Midnight Australia",
+        "locationId": 4,
+        "dayPeriodToken": 7,
+        "correction": 0,
+        "winner": {
+          "id": 398,
+          "firstName": "Serhii",
+          "lastName": "Semenets",
+          "gender": true,
+          "photo": "My8zOS8zOTgvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 608515,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 8
+          },
+          {
+            "match_id": 608515,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 3
+          },
+          {
+            "match_id": 608515,
+            "number": 3,
+            "p1Score": 4,
+            "p2Score": 11
+          },
+          {
+            "match_id": 608515,
+            "number": 4,
+            "p1Score": 6,
+            "p2Score": 11
+          },
+          {
+            "match_id": 608515,
+            "number": 5,
+            "p1Score": 5,
+            "p2Score": 11
+          }
+        ]
+      },
+      {
+        "id": 608516,
+        "tournamentId": 44617,
+        "statusId": 3,
+        "position": 9,
+        "player1": {
+          "id": 280,
+          "firstName": "Stefan",
+          "lastName": "Yakimenko",
+          "gender": true,
+          "photo": "Mi8yOC8yODAvcGhvdG8uanBn"
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 240,
+          "firstName": "Serhii",
+          "lastName": "Solomko",
+          "gender": true,
+          "photo": "Mi8yNC8yNDAvcGhvdG8uanBn"
+        },
+        "player2ColorId": 5,
+        "player1Score": "0",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-03-12T19:50:00.000Z",
+        "activePlayerId": 240,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-03-12 Men Midnight Australia",
+        "locationId": 4,
+        "dayPeriodToken": 7,
+        "correction": 0,
+        "winner": {
+          "id": 240,
+          "firstName": "Serhii",
+          "lastName": "Solomko",
+          "gender": true,
+          "photo": "Mi8yNC8yNDAvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 608516,
+            "number": 1,
+            "p1Score": 9,
+            "p2Score": 11
+          },
+          {
+            "match_id": 608516,
+            "number": 2,
+            "p1Score": 9,
+            "p2Score": 11
+          },
+          {
+            "match_id": 608516,
+            "number": 3,
+            "p1Score": 7,
+            "p2Score": 11
+          }
+        ]
+      },
+      {
+        "id": 608517,
+        "tournamentId": 44617,
+        "statusId": 3,
+        "position": 10,
+        "player1": {
+          "id": 397,
+          "firstName": "Kostiantyn",
+          "lastName": "Klymenko",
+          "gender": true,
+          "photo": "My8zOS8zOTcvcGhvdG8uanBn"
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 1078,
+          "firstName": "Oleksandr",
+          "lastName": "Osadchyi",
+          "gender": true,
+          "photo": "MS8xMC8xMDc4L3Bob3RvLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "3",
+        "player2Score": "2",
+        "technicalResult": 0,
+        "startDate": "2025-03-12T20:20:00.000Z",
+        "activePlayerId": 397,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-03-12 Men Midnight Australia",
+        "locationId": 4,
+        "dayPeriodToken": 7,
+        "correction": 0,
+        "winner": {
+          "id": 397,
+          "firstName": "Kostiantyn",
+          "lastName": "Klymenko",
+          "gender": true,
+          "photo": "My8zOS8zOTcvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 608517,
+            "number": 1,
+            "p1Score": 8,
+            "p2Score": 11
+          },
+          {
+            "match_id": 608517,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 9
+          },
+          {
+            "match_id": 608517,
+            "number": 3,
+            "p1Score": 5,
+            "p2Score": 11
+          },
+          {
+            "match_id": 608517,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 8
+          },
+          {
+            "match_id": 608517,
+            "number": 5,
+            "p1Score": 11,
+            "p2Score": 4
+          }
+        ]
+      },
+      {
+        "id": 608518,
+        "tournamentId": 44617,
+        "statusId": 3,
+        "position": 11,
+        "player1": {
+          "id": 280,
+          "firstName": "Stefan",
+          "lastName": "Yakimenko",
+          "gender": true,
+          "photo": "Mi8yOC8yODAvcGhvdG8uanBn"
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 1709,
+          "firstName": "Serhii",
+          "lastName": "Hovorunets",
+          "gender": true,
+          "photo": "MS8xNy8xNzA5L3Bob3RvLmpwZw=="
+        },
+        "player2ColorId": 2,
+        "player1Score": "3",
+        "player2Score": "0",
+        "technicalResult": 0,
+        "startDate": "2025-03-12T20:50:00.000Z",
+        "activePlayerId": 1709,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-03-12 Men Midnight Australia",
+        "locationId": 4,
+        "dayPeriodToken": 7,
+        "correction": 0,
+        "winner": {
+          "id": 280,
+          "firstName": "Stefan",
+          "lastName": "Yakimenko",
+          "gender": true,
+          "photo": "Mi8yOC8yODAvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 608518,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 9
+          },
+          {
+            "match_id": 608518,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 7
+          },
+          {
+            "match_id": 608518,
+            "number": 3,
+            "p1Score": 11,
+            "p2Score": 8
+          }
+        ]
+      },
+      {
+        "id": 608519,
+        "tournamentId": 44617,
+        "statusId": 3,
+        "position": 12,
+        "player1": {
+          "id": 398,
+          "firstName": "Serhii",
+          "lastName": "Semenets",
+          "gender": true,
+          "photo": "My8zOS8zOTgvcGhvdG8uanBn"
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 240,
+          "firstName": "Serhii",
+          "lastName": "Solomko",
+          "gender": true,
+          "photo": "Mi8yNC8yNDAvcGhvdG8uanBn"
+        },
+        "player2ColorId": 2,
+        "player1Score": "3",
+        "player2Score": "2",
+        "technicalResult": 0,
+        "startDate": "2025-03-12T21:20:00.000Z",
+        "activePlayerId": 240,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-03-12 Men Midnight Australia",
+        "locationId": 4,
+        "dayPeriodToken": 7,
+        "correction": 0,
+        "winner": {
+          "id": 398,
+          "firstName": "Serhii",
+          "lastName": "Semenets",
+          "gender": true,
+          "photo": "My8zOS8zOTgvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 608519,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 4
+          },
+          {
+            "match_id": 608519,
+            "number": 2,
+            "p1Score": 8,
+            "p2Score": 11
+          },
+          {
+            "match_id": 608519,
+            "number": 3,
+            "p1Score": 10,
+            "p2Score": 12
+          },
+          {
+            "match_id": 608519,
+            "number": 4,
+            "p1Score": 11,
+            "p2Score": 3
+          },
+          {
+            "match_id": 608519,
+            "number": 5,
+            "p1Score": 11,
+            "p2Score": 9
+          }
+        ]
+      },
+      {
+        "id": 608520,
+        "tournamentId": 44617,
+        "statusId": 3,
+        "position": 13,
+        "player1": {
+          "id": 397,
+          "firstName": "Kostiantyn",
+          "lastName": "Klymenko",
+          "gender": true,
+          "photo": "My8zOS8zOTcvcGhvdG8uanBn"
+        },
+        "player1ColorId": 5,
+        "player2": {
+          "id": 280,
+          "firstName": "Stefan",
+          "lastName": "Yakimenko",
+          "gender": true,
+          "photo": "Mi8yOC8yODAvcGhvdG8uanBn"
+        },
+        "player2ColorId": 2,
+        "player1Score": "3",
+        "player2Score": "2",
+        "technicalResult": 0,
+        "startDate": "2025-03-12T21:50:00.000Z",
+        "activePlayerId": 397,
+        "reverse": 0,
+        "forPositionId": 1,
+        "tournamentName": "2025-03-12 Men Midnight Australia",
+        "locationId": 4,
+        "dayPeriodToken": 7,
+        "correction": 0,
+        "winner": {
+          "id": 397,
+          "firstName": "Kostiantyn",
+          "lastName": "Klymenko",
+          "gender": true,
+          "photo": "My8zOS8zOTcvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 608520,
+            "number": 1,
+            "p1Score": 12,
+            "p2Score": 10
+          },
+          {
+            "match_id": 608520,
+            "number": 2,
+            "p1Score": 11,
+            "p2Score": 8
+          },
+          {
+            "match_id": 608520,
+            "number": 3,
+            "p1Score": 10,
+            "p2Score": 12
+          },
+          {
+            "match_id": 608520,
+            "number": 4,
+            "p1Score": 8,
+            "p2Score": 11
+          },
+          {
+            "match_id": 608520,
+            "number": 5,
+            "p1Score": 11,
+            "p2Score": 7
+          }
+        ]
+      },
+      {
+        "id": 608521,
+        "tournamentId": 44617,
+        "statusId": 3,
+        "position": 14,
+        "player1": {
+          "id": 1078,
+          "firstName": "Oleksandr",
+          "lastName": "Osadchyi",
+          "gender": true,
+          "photo": "MS8xMC8xMDc4L3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 240,
+          "firstName": "Serhii",
+          "lastName": "Solomko",
+          "gender": true,
+          "photo": "Mi8yNC8yNDAvcGhvdG8uanBn"
+        },
+        "player2ColorId": 5,
+        "player1Score": "1",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-03-12T22:20:00.000Z",
+        "activePlayerId": 240,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-03-12 Men Midnight Australia",
+        "locationId": 4,
+        "dayPeriodToken": 7,
+        "correction": 0,
+        "winner": {
+          "id": 240,
+          "firstName": "Serhii",
+          "lastName": "Solomko",
+          "gender": true,
+          "photo": "Mi8yNC8yNDAvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 608521,
+            "number": 1,
+            "p1Score": 11,
+            "p2Score": 1
+          },
+          {
+            "match_id": 608521,
+            "number": 2,
+            "p1Score": 5,
+            "p2Score": 11
+          },
+          {
+            "match_id": 608521,
+            "number": 3,
+            "p1Score": 4,
+            "p2Score": 11
+          },
+          {
+            "match_id": 608521,
+            "number": 4,
+            "p1Score": 2,
+            "p2Score": 11
+          }
+        ]
+      },
+      {
+        "id": 608522,
+        "tournamentId": 44617,
+        "statusId": 3,
+        "position": 15,
+        "player1": {
+          "id": 1709,
+          "firstName": "Serhii",
+          "lastName": "Hovorunets",
+          "gender": true,
+          "photo": "MS8xNy8xNzA5L3Bob3RvLmpwZw=="
+        },
+        "player1ColorId": 2,
+        "player2": {
+          "id": 398,
+          "firstName": "Serhii",
+          "lastName": "Semenets",
+          "gender": true,
+          "photo": "My8zOS8zOTgvcGhvdG8uanBn"
+        },
+        "player2ColorId": 5,
+        "player1Score": "0",
+        "player2Score": "3",
+        "technicalResult": 0,
+        "startDate": "2025-03-12T22:50:00.000Z",
+        "activePlayerId": 1709,
+        "reverse": 1,
+        "forPositionId": 1,
+        "tournamentName": "2025-03-12 Men Midnight Australia",
+        "locationId": 4,
+        "dayPeriodToken": 7,
+        "correction": 0,
+        "winner": {
+          "id": 398,
+          "firstName": "Serhii",
+          "lastName": "Semenets",
+          "gender": true,
+          "photo": "My8zOS8zOTgvcGhvdG8uanBn"
+        },
+        "setScores": [
+          {
+            "match_id": 608522,
+            "number": 1,
+            "p1Score": 5,
+            "p2Score": 11
+          },
+          {
+            "match_id": 608522,
+            "number": 2,
+            "p1Score": 4,
+            "p2Score": 11
+          },
+          {
+            "match_id": 608522,
+            "number": 3,
+            "p1Score": 5,
+            "p2Score": 11
+          }
+        ]
+      }
+    ],
+    "secondCircle": false,
+    "startDate": "2025-03-12T15:50:00.000Z",
+    "statusCode": "finished",
+    "token": "2025-03-12 Men Midnight Australia",
+    "divisionToken": "Men",
+    "result": {
+      "matches": {
+        "1": {
+          "397-240": {
+            "match_id": "608508",
+            "status": "finished",
+            "winner": "397",
+            "score": {
+              "240": 2,
+              "397": 3
+            }
+          },
+          "240-397": {
+            "match_id": "608508",
+            "status": "finished",
+            "winner": "397",
+            "score": {
+              "240": 2,
+              "397": 3
+            }
+          },
+          "280-398": {
+            "match_id": "608509",
+            "status": "finished",
+            "winner": "398",
+            "score": {
+              "280": 0,
+              "398": 3
+            }
+          },
+          "398-280": {
+            "match_id": "608509",
+            "status": "finished",
+            "winner": "398",
+            "score": {
+              "280": 0,
+              "398": 3
+            }
+          },
+          "1078-1709": {
+            "match_id": "608510",
+            "status": "finished",
+            "winner": "1078",
+            "score": {
+              "1078": 3,
+              "1709": 1
+            }
+          },
+          "1709-1078": {
+            "match_id": "608510",
+            "status": "finished",
+            "winner": "1078",
+            "score": {
+              "1078": 3,
+              "1709": 1
+            }
+          },
+          "397-398": {
+            "match_id": "608511",
+            "status": "finished",
+            "winner": "397",
+            "score": {
+              "397": 3,
+              "398": 1
+            }
+          },
+          "398-397": {
+            "match_id": "608511",
+            "status": "finished",
+            "winner": "397",
+            "score": {
+              "397": 3,
+              "398": 1
+            }
+          },
+          "1709-240": {
+            "match_id": "608512",
+            "status": "finished",
+            "winner": "240",
+            "score": {
+              "240": 3,
+              "1709": 1
+            }
+          },
+          "240-1709": {
+            "match_id": "608512",
+            "status": "finished",
+            "winner": "240",
+            "score": {
+              "240": 3,
+              "1709": 1
+            }
+          },
+          "280-1078": {
+            "match_id": "608513",
+            "status": "finished",
+            "winner": "280",
+            "score": {
+              "280": 3,
+              "1078": 0
+            }
+          },
+          "1078-280": {
+            "match_id": "608513",
+            "status": "finished",
+            "winner": "280",
+            "score": {
+              "280": 3,
+              "1078": 0
+            }
+          },
+          "397-1709": {
+            "match_id": "608514",
+            "status": "finished",
+            "winner": "397",
+            "score": {
+              "397": 3,
+              "1709": 2
+            }
+          },
+          "1709-397": {
+            "match_id": "608514",
+            "status": "finished",
+            "winner": "397",
+            "score": {
+              "397": 3,
+              "1709": 2
+            }
+          },
+          "1078-398": {
+            "match_id": "608515",
+            "status": "finished",
+            "winner": "398",
+            "score": {
+              "398": 3,
+              "1078": 2
+            }
+          },
+          "398-1078": {
+            "match_id": "608515",
+            "status": "finished",
+            "winner": "398",
+            "score": {
+              "398": 3,
+              "1078": 2
+            }
+          },
+          "280-240": {
+            "match_id": "608516",
+            "status": "finished",
+            "winner": "240",
+            "score": {
+              "240": 3,
+              "280": 0
+            }
+          },
+          "240-280": {
+            "match_id": "608516",
+            "status": "finished",
+            "winner": "240",
+            "score": {
+              "240": 3,
+              "280": 0
+            }
+          },
+          "397-1078": {
+            "match_id": "608517",
+            "status": "finished",
+            "winner": "397",
+            "score": {
+              "397": 3,
+              "1078": 2
+            }
+          },
+          "1078-397": {
+            "match_id": "608517",
+            "status": "finished",
+            "winner": "397",
+            "score": {
+              "397": 3,
+              "1078": 2
+            }
+          },
+          "280-1709": {
+            "match_id": "608518",
+            "status": "finished",
+            "winner": "280",
+            "score": {
+              "280": 3,
+              "1709": 0
+            }
+          },
+          "1709-280": {
+            "match_id": "608518",
+            "status": "finished",
+            "winner": "280",
+            "score": {
+              "280": 3,
+              "1709": 0
+            }
+          },
+          "398-240": {
+            "match_id": "608519",
+            "status": "finished",
+            "winner": "398",
+            "score": {
+              "240": 2,
+              "398": 3
+            }
+          },
+          "240-398": {
+            "match_id": "608519",
+            "status": "finished",
+            "winner": "398",
+            "score": {
+              "240": 2,
+              "398": 3
+            }
+          },
+          "397-280": {
+            "match_id": "608520",
+            "status": "finished",
+            "winner": "397",
+            "score": {
+              "280": 2,
+              "397": 3
+            }
+          },
+          "280-397": {
+            "match_id": "608520",
+            "status": "finished",
+            "winner": "397",
+            "score": {
+              "280": 2,
+              "397": 3
+            }
+          },
+          "1078-240": {
+            "match_id": "608521",
+            "status": "finished",
+            "winner": "240",
+            "score": {
+              "240": 3,
+              "1078": 1
+            }
+          },
+          "240-1078": {
+            "match_id": "608521",
+            "status": "finished",
+            "winner": "240",
+            "score": {
+              "240": 3,
+              "1078": 1
+            }
+          },
+          "1709-398": {
+            "match_id": "608522",
+            "status": "finished",
+            "winner": "398",
+            "score": {
+              "398": 3,
+              "1709": 0
+            }
+          },
+          "398-1709": {
+            "match_id": "608522",
+            "status": "finished",
+            "winner": "398",
+            "score": {
+              "398": 3,
+              "1709": 0
+            }
+          }
+        }
+      },
+      "players": {
+        "240": {
+          "points": 8,
+          "real_points": 8,
+          "position": 3,
+          "real_position": 3,
+          "matches": {
+            "won": 3,
+            "lose": 2,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 5
+          },
+          "sets": {
+            "won": 13,
+            "lose": 8,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 21
+          },
+          "id": 240,
+          "number": 1,
+          "firstName": "Serhii",
+          "lastName": "Solomko",
+          "gender": true,
+          "photo": "Mi8yNC8yNDAvcGhvdG8uanBn"
+        },
+        "280": {
+          "points": 7,
+          "real_points": 7,
+          "position": 4,
+          "real_position": 4,
+          "matches": {
+            "won": 2,
+            "lose": 3,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 5
+          },
+          "sets": {
+            "won": 8,
+            "lose": 9,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 17
+          },
+          "id": 280,
+          "number": 2,
+          "firstName": "Stefan",
+          "lastName": "Yakimenko",
+          "gender": true,
+          "photo": "Mi8yOC8yODAvcGhvdG8uanBn"
+        },
+        "397": {
+          "points": 10,
+          "real_points": 10,
+          "position": 1,
+          "real_position": 1,
+          "matches": {
+            "won": 5,
+            "lose": 0,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 5
+          },
+          "sets": {
+            "won": 15,
+            "lose": 9,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 24
+          },
+          "id": 397,
+          "number": 3,
+          "firstName": "Kostiantyn",
+          "lastName": "Klymenko",
+          "gender": true,
+          "photo": "My8zOS8zOTcvcGhvdG8uanBn"
+        },
+        "398": {
+          "points": 9,
+          "real_points": 9,
+          "position": 2,
+          "real_position": 2,
+          "matches": {
+            "won": 4,
+            "lose": 1,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 5
+          },
+          "sets": {
+            "won": 13,
+            "lose": 7,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 20
+          },
+          "id": 398,
+          "number": 4,
+          "firstName": "Serhii",
+          "lastName": "Semenets",
+          "gender": true,
+          "photo": "My8zOS8zOTgvcGhvdG8uanBn"
+        },
+        "1078": {
+          "points": 6,
+          "real_points": 6,
+          "position": 5,
+          "real_position": 5,
+          "matches": {
+            "won": 1,
+            "lose": 4,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 5
+          },
+          "sets": {
+            "won": 8,
+            "lose": 13,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 21
+          },
+          "id": 1078,
+          "number": 5,
+          "firstName": "Oleksandr",
+          "lastName": "Osadchyi",
+          "gender": true,
+          "photo": "MS8xMC8xMDc4L3Bob3RvLmpwZw=="
+        },
+        "1709": {
+          "points": 5,
+          "real_points": 5,
+          "position": 6,
+          "real_position": 6,
+          "matches": {
+            "won": 0,
+            "lose": 5,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 5
+          },
+          "sets": {
+            "won": 4,
+            "lose": 15,
+            "tech_won": 0,
+            "tech_lose": 0,
+            "all": 19
+          },
+          "id": 1709,
+          "number": 6,
+          "firstName": "Serhii",
+          "lastName": "Hovorunets",
+          "gender": true,
+          "photo": "MS8xNy8xNzA5L3Bob3RvLmpwZw=="
+        }
+      },
+      "positions": {
+        "240": 3,
+        "280": 4,
+        "397": 1,
+        "398": 2,
+        "1078": 5,
+        "1709": 6
+      }
+    }
+  }
+]
