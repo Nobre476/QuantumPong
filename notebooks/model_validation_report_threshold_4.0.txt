@@ -1,0 +1,29 @@
+
+RELATÓRIO DE VALIDAÇÃO DO MODELO
+================================
+
+Dataset: 33572 amostras
+Features: 16
+Threshold: 4.0
+
+DISTRIBUIÇÃO DO TARGET:
+{0: 23010, 1: 10562}
+
+VALIDAÇÃO CRUZADA (5-fold):
+Acurácia média: 1.0000 ± 0.0000
+
+TOP 5 FEATURES MAIS IMPORTANTES:
+          feature  importance
+8       Fatigue_2    0.315327
+9  Fatigue_norm_2    0.180552
+4  Fatigue_norm_1    0.140000
+3       Fatigue_1    0.120743
+7       BH_Stab_2    0.099558
+
+CASOS POR CONFIANÇA:
+- Alta confiança (>90%): 10562
+- Baixa confiança (40-60%): 0
+
+MATRIZ DE CONFUSÃO:
+[[23010     0]
+ [    0 10562]]
